@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "AEA"
+  ],
+  "key": {
+    "A": {
+      "item": "create:golden_sheet"
+    },
+    "B": {
+      "item": "create:electron_tube"
+    },
+    "C": {
+      "item": "create:precision_mechanism"
+    },
+    "D": {
+      "item": "chromeware:bioconductor"
+    },
+    "E": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "chromeware:cox_2_cybersomatic_optimizer",
+    "count": 1
+  }
+}

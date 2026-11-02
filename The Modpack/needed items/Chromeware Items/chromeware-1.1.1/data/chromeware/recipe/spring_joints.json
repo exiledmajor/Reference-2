@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    " B "
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "create:iron_sheet"
+    },
+    "C": {
+      "item": "create:andesite_alloy"
+    },
+    "D": {
+      "item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "id": "chromeware:spring_joints",
+    "count": 1
+  }
+}

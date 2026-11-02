@@ -1,0 +1,7 @@
+{
+  "message_id": "createcybernetics.missing_skin",
+  "scaling": "never",
+  "exhaustion": 0.5,
+  "effects": "hurt",
+  "death_message_type": "default"
+}

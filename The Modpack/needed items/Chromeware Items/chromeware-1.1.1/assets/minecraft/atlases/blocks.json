@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "chromeware:entity/gorilla_arms"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "chromeware:entity/cyber_limbs"
+    }
+  ]
+}

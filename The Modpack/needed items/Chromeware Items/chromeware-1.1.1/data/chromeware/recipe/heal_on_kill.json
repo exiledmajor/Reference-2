@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EDE"
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "create:zinc_nugget"
+    },
+    "C": {
+      "item": "create:sturdy_sheet"
+    },
+    "D": {
+      "item": "create:electron_tube"
+    },
+    "E": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "result": {
+    "id": "chromeware:heal_on_kill",
+    "count": 1
+  }
+}

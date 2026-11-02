@@ -1,0 +1,218 @@
+{
+  "cyberpsycho": {
+    "sounds": [
+      {
+        "name": "createcybernetics:cyberpsycho",
+        "stream": true
+      }
+    ]
+  },
+  "neon_overlords": {
+    "sounds": [
+      {
+        "name": "createcybernetics:neon_overlords",
+        "stream": true
+      }
+    ]
+  },
+  "neurohack": {
+    "sounds": [
+      {
+        "name": "createcybernetics:neurohack",
+        "stream": true
+      }
+    ]
+  },
+  "the_grid": {
+    "sounds": [
+      {
+        "name": "createcybernetics:the_grid",
+        "stream": true
+      }
+    ]
+  },
+  "danger_snow": {
+    "sounds": [
+      {
+        "name": "createcybernetics:danger_snow",
+        "stream": true
+      }
+    ]
+  },
+  "dark": {
+    "sounds": [
+      {
+        "name": "createcybernetics:dark",
+        "stream": true
+      }
+    ]
+  },
+  "my_retro_jacket": {
+    "sounds": [
+      {
+        "name": "createcybernetics:my_retro_jacket",
+        "stream": true
+      }
+    ]
+  },
+  "gameboy_girl": {
+    "sounds": [
+      {
+        "name": "createcybernetics:gameboy_girl",
+        "stream": true
+      }
+    ]
+  },
+  "nightmares_on_hauptstrasse": {
+    "sounds": [
+      {
+        "name": "createcybernetics:nightmares_on_hauptstrasse",
+        "stream": true
+      }
+    ]
+  },
+  "intergalactic_walk": {
+    "sounds": [
+      {
+        "name": "createcybernetics:intergalactic_walk",
+        "stream": true
+      }
+    ]
+  },
+  "sensation": {
+    "sounds": [
+      {
+        "name": "createcybernetics:sensation",
+        "stream": true
+      }
+    ]
+  },
+  "shotgun": {
+    "sounds": [
+      {
+        "name": "createcybernetics:shotgun",
+        "stream": true
+      }
+    ]
+  },
+  "descent_into_madness": {
+    "sounds": [
+      {
+        "name": "createcybernetics:descent_into_madness",
+        "stream": true
+      }
+    ]
+  },
+  "metal_detector_beeps": {
+    "subtitle": "sounds.createcybernetics.metal_detector_beeps",
+    "sounds": [
+      {
+        "name": "createcybernetics:metal_detector_beeps"
+      }
+    ]
+  },
+  "retractable_claws_snikt": {
+    "subtitle": "sounds.createcybernetics.retractable_claws_snikt",
+    "sounds": [
+      {
+        "name": "createcybernetics:retractable_claws_snikt"
+      }
+    ]
+  },
+  "sandy_startup": {
+    "subtitle": "sounds.createcybernetics.sandy_startup",
+    "sounds": [
+      {
+        "name": "createcybernetics:sandy_startup"
+      }
+    ]
+  },
+  "metal_crushing": {
+    "subtitle": "sounds.createcybernetics.metal_crushing",
+    "sounds": [
+      {
+        "name": "createcybernetics:metal_crushing"
+      }
+    ]
+  },
+  "glitchy": {
+    "subtitle": "sounds.createcybernetics.glitchy",
+    "sounds": [
+      {"name": "createcybernetics:glitch1"},
+      {"name": "createcybernetics:glitch2"},
+      {"name": "createcybernetics:glitch3"},
+      {"name": "createcybernetics:glitch4"},
+      {"name": "createcybernetics:glitch5"},
+      {"name": "createcybernetics:glitch6"},
+      {"name": "createcybernetics:glitch7"},
+      {"name": "createcybernetics:glitch8"},
+      {"name": "createcybernetics:glitch9"},
+      {"name": "createcybernetics:glitch10"},
+      {"name": "createcybernetics:glitch11"}
+    ]
+  },
+  "cyberpsychosis_scares": {
+    "subtitle": "sounds.createcybernetics.cyberpsychosis_scares",
+    "sounds": [
+      {"name": "createcybernetics:psycho_breath"},
+      {"name": "createcybernetics:psycho_heartbeat_whining"},
+      {"name": "createcybernetics:psycho_heartbeat_whining"},
+      {"name": "createcybernetics:psycho_heartbeat_anxiety"},
+      {"name": "createcybernetics:psycho_heartbeat_drone"},
+      {"name": "createcybernetics:psycho_paranoia"},
+      {"name": "createcybernetics:psycho_heartbeat"},
+      {"name": "createcybernetics:psycho_heartbeat_whine"},
+      {"name": "createcybernetics:psycho_heartbeat_glitch"},
+      {"name": "createcybernetics:psycho_drone"}
+    ]
+  },
+  "surgery": {
+    "subtitle": "sounds.createcybernetics.surgery",
+    "sounds": [
+      {"name": "createcybernetics:robosurgeon"}
+    ]
+  },
+  "surgery_table": {
+    "subtitle": "sounds.createcybernetics.surgery_table",
+    "sounds": [
+      {"name": "createcybernetics:surgery_table"}
+    ]
+  },
+  "autoinjector": {
+    "subtitle": "sounds.createcybernetics.autoinjector",
+    "sounds": [
+      {"name": "createcybernetics:autoinjector"}
+    ]
+  },
+  "smasher_idle": {
+    "subtitle": "sounds.createcybernetics.smasher_idle",
+    "sounds": [
+      {"name": "createcybernetics:smasher_idle1"},
+      {"name": "createcybernetics:smasher_idle2"},
+      {"name": "createcybernetics:smasher_idle3"},
+      {"name": "createcybernetics:smasher_idle4"},
+      {"name": "createcybernetics:smasher_idle5"}
+    ]
+  },
+  "smasher_step": {
+    "subtitle": "sounds.createcybernetics.smasher_step",
+    "sounds": [
+      {"name": "createcybernetics:smasher_step1"},
+      {"name": "createcybernetics:smasher_step2"},
+      {"name": "createcybernetics:smasher_step3"}
+    ]
+  },
+  "pigstrom_idle": {
+    "subtitle": "sounds.createcybernetics.pigstrom_idle",
+    "sounds": [
+      {"name": "createcybernetics:pigstrom_idle"}
+    ]
+  },
+  "mantis_open": {
+    "subtitle": "sounds.createcybernetics.mantis_open",
+    "sounds": [
+      {"name": "createcybernetics:mantis_open1"},
+      {"name": "createcybernetics:mantis_open2"}
+    ]
+  }
+}

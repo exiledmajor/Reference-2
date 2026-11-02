@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CBC",
+    "DED"
+  ],
+  "key": {
+    "A": {
+      "item": "create:copper_sheet"
+    },
+    "B": {
+      "item": "create:polished_rose_quartz"
+    },
+    "C": {
+      "item": "create:brass_sheet"
+    },
+    "D": {
+      "item": "create:iron_sheet"
+    },
+    "E": {
+      "item": "create:electron_tube"
+    }
+  },
+  "result": {
+    "id": "chromeware:feen_x",
+    "count": 1
+  }
+}

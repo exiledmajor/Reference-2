@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC"
+  ],
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "B": {
+      "item": "create:goggles"
+    },
+    "C": {
+      "item": "create:iron_sheet"
+    },
+    "D": {
+      "item": "create:electron_tube"
+    }
+  },
+  "result": {
+    "id": "chromeware:kiroshi_optics",
+    "count": 1
+  }
+}

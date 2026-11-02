@@ -1,0 +1,28 @@
+{
+  "values": [
+    "createcybernetics:skinupgrades_metalplating",
+    "createcybernetics:skinupgrades_subdermalspikes",
+    "createcybernetics:skinupgrades_subdermalarmor",
+    "createcybernetics:skinupgrades_solarskin",
+    "createcybernetics:skinupgrades_netheriteplating",
+    "createcybernetics:skinupgrades_synthskin",
+    "createcybernetics:skinupgrades_chromatophores",
+    "createcybernetics:skinupgrades_empthreading",
+    "createcybernetics:wetware_polarbearfur",
+    "createcybernetics:wetware_dragonskin",
+    "createcybernetics:bodypart_sculkskin",
+    "createcybernetics:bodypart_skin",
+    {
+      "id": "createcybernetics:skinupgrades_sweat",
+      "required": false
+    },
+    {
+      "id": "createcybernetics:skinupgrades_manaskin",
+      "required": false
+    },
+    {
+      "id": "createcybernetics:skinupgrades_ultraviolent",
+      "required": false
+    }
+  ]
+}

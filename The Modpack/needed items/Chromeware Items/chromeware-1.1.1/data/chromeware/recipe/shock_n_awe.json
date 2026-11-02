@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "create:iron_sheet"
+    },
+    "B": {
+      "item": "minecraft:lightning_rod"
+    },
+    "C": {
+      "item": "create:brass_sheet"
+    },
+    "D": {
+      "item": "create:electron_tube"
+    },
+    "E": {
+      "item": "create:copper_sheet"
+    }
+  },
+  "result": {
+    "id": "chromeware:shock_n_awe",
+    "count": 1
+  }
+}

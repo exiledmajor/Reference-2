@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "create:electron_tube"
+    },
+    "C": {
+      "item": "create:iron_sheet"
+    },
+    "D": {
+      "item": "create:cogwheel"
+    },
+    "E": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "chromeware:mechatronic_core",
+    "count": 1
+  }
+}

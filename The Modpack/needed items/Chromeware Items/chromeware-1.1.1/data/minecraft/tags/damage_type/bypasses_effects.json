@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "chromeware:true_damage",
+    "chromeware:suicide",
+    "chromeware:system_collapse"
+  ]
+}

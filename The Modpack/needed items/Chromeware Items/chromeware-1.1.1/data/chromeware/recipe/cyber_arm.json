@@ -1,0 +1,37 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "create:precision_mechanism"
+    },
+    "C": {
+      "item": "create:iron_sheet"
+    },
+    "D": {
+      "item": "create:shaft"
+    },
+    "E": {
+      "item": "create:cogwheel"
+    },
+    "F": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "CDC",
+    " E ",
+    "CDC",
+    " F "
+  ],
+  "result": {
+    "count": 1,
+    "id": "chromeware:cyber_arm"
+  },
+  "show_notification": false
+}

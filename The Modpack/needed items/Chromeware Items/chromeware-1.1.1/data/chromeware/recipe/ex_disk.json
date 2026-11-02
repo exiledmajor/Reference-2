@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "B": {
+      "item": "create:brass_sheet"
+    },
+    "C": {
+      "item": "create:polished_rose_quartz"
+    },
+    "D": {
+      "item": "create:electron_tube"
+    }
+  },
+  "result": {
+    "id": "chromeware:ex_disk",
+    "count": 1
+  }
+}

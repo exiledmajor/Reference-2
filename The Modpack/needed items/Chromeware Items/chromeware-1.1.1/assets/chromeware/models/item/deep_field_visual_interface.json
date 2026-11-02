@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "chromeware:item/deep_field_visual_interface"
+  }
+}

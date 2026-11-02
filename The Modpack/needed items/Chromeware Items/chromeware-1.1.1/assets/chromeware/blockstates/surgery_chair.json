@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,part=foot": {"model": "chromeware:block/surgery_chair_foot"},
+    "facing=east,part=foot": {"model": "chromeware:block/surgery_chair_foot", "y": 90},
+    "facing=south,part=foot": {"model": "chromeware:block/surgery_chair_foot", "y": 180},
+    "facing=west,part=foot": {"model": "chromeware:block/surgery_chair_foot", "y": 270},
+    "facing=north,part=head": {"model": "chromeware:block/surgery_chair_head"},
+    "facing=east,part=head": {"model": "chromeware:block/surgery_chair_head", "y": 90},
+    "facing=south,part=head": {"model": "chromeware:block/surgery_chair_head", "y": 180},
+    "facing=west,part=head": {"model": "chromeware:block/surgery_chair_head", "y": 270}
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "AEA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "B": {
+      "item": "create:precision_mechanism"
+    },
+    "C": {
+      "item": "create:copper_sheet"
+    },
+    "D": {
+      "item": "chromeware:visual_cortex_support"
+    },
+    "E": {
+      "item": "create:electron_tube"
+    }
+  },
+  "result": {
+    "id": "chromeware:deep_field_visual_interface",
+    "count": 1
+  }
+}

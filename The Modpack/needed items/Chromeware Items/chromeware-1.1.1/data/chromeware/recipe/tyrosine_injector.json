@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "A A",
+    " B ",
+    "CDC"
+  ],
+  "key": {
+    "A": {
+      "item": "chromeware:empty_syringe"
+    },
+    "B": {
+      "item": "create:iron_sheet"
+    },
+    "C": {
+      "item": "create:brass_sheet"
+    },
+    "D": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "id": "chromeware:tyrosine_injector",
+    "count": 1
+  }
+}

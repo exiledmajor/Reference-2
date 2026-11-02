@@ -1,0 +1,99 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "create:sturdy_sheet"
+            ]
+          }
+        ]
+      }
+    },
+    "has_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "create:redstone_link"
+            ]
+          }
+        ]
+      }
+    },
+    "has_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "create:precision_mechanism"
+            ]
+          }
+        ]
+      }
+    },
+    "has_3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "create:powered_toggle_latch"
+            ]
+          }
+        ]
+      }
+    },
+    "has_4": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "create:electron_tube"
+            ]
+          }
+        ]
+      }
+    },
+    "has_5": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "create:polished_rose_quartz"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "chromeware:quickhack_cyberpsychosis"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_0",
+      "has_1",
+      "has_2",
+      "has_3",
+      "has_4",
+      "has_5",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "chromeware:quickhack_cyberpsychosis"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EFE"
+  ],
+  "key": {
+    "A": {
+      "item": "create:sturdy_sheet"
+    },
+    "B": {
+      "item": "create:redstone_link"
+    },
+    "C": {
+      "item": "create:precision_mechanism"
+    },
+    "D": {
+      "item": "create:powered_toggle_latch"
+    },
+    "E": {
+      "item": "create:electron_tube"
+    },
+    "F": {
+      "item": "create:polished_rose_quartz"
+    }
+  },
+  "result": {
+    "id": "chromeware:quickhack_cyberpsychosis",
+    "count": 1
+  }
+}

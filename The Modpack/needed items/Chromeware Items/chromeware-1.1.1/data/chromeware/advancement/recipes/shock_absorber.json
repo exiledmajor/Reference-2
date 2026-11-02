@@ -1,0 +1,96 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "create:brass_sheet"
+            ]
+          }
+        ]
+      }
+    },
+    "has_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:piston"
+            ]
+          }
+        ]
+      }
+    },
+    "has_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "create:copper_sheet"
+            ]
+          }
+        ]
+      }
+    },
+    "has_3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "create:zinc_nugget"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "chromeware:shock_absorber"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_0",
+      "has_1",
+      "has_2",
+      "has_3",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "chromeware:shock_absorber"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:or",
+      "values": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "pointblank"
+        },
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "tacz"
+        },
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "superbwarfare"
+        },
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "scguns"
+        }
+      ]
+    }
+  ]
+}

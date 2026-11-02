@@ -1,0 +1,17 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "chromeware:standard_grade_immunosuppressant"
+    }
+  ],
+  "results": [
+    {
+      "id": "chromeware:empty_syringe"
+    },
+    {
+      "amount": 250,
+      "id": "chromeware:standard_immunosuppressant"
+    }
+  ]
+}

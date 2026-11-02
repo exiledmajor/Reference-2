@@ -1,0 +1,50 @@
+{
+  "neoforge:conditions": [
+    {
+        "type": "neoforge:mod_loaded",
+        "modid": "create"
+    }
+  ],
+  "type": "createcybernetics:engineering_table",
+  "accept_mirrored": true,
+
+  "key": {
+    "N": {
+      "item": "createcybernetics:component_plating"
+    },
+    "1": {
+      "item": "createcybernetics:frontal_lobe"
+    },
+    "2": {
+      "item": "createcybernetics:parietal_lobe"
+    },
+    "3": {
+      "item": "createcybernetics:occipital_lobe"
+    },
+    "4": {
+      "item": "createcybernetics:temporal_lobe"
+    },
+    "5": {
+      "item": "createcybernetics:cerebellum"
+    },
+    "X": {
+      "item": "createcybernetics:component_synthnerves"
+    },
+    "S": {
+      "item": "createcybernetics:component_ssd"
+    }
+  },
+
+  "pattern": [
+    " NNN ",
+    "NX2XN",
+    "N1S3N",
+    "NX4XN",
+    "  X5X"
+  ],
+
+  "result": {
+    "count": 1,
+    "id": "createcybernetics:brainupgrades_cyberbrain"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "superbwarfare:type_63",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:mk_42",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:hpj_11",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:mle_1934",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:bl_132",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:annihilator",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:laser_tower",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:waveforce_tower",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:tow",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:drone",
+      "required": false
+    }
+  ]
+}

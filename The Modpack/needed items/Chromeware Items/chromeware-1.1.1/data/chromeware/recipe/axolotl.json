@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "DED"
+  ],
+  "key": {
+    "A": {
+      "item": "create:polished_rose_quartz"
+    },
+    "B": {
+      "item": "create:precision_mechanism"
+    },
+    "C": {
+      "item": "chromeware:newton_module"
+    },
+    "D": {
+      "item": "create:brass_sheet"
+    },
+    "E": {
+      "item": "minecraft:clock"
+    }
+  },
+  "result": {
+    "id": "chromeware:axolotl",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:lever"
+    },
+    "B": {
+      "item": "create:copper_sheet"
+    },
+    "C": {
+      "item": "create:polished_rose_quartz"
+    },
+    "D": {
+      "item": "create:electron_tube"
+    },
+    "E": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "chromeware:quickhack_remote_activation",
+    "count": 1
+  }
+}

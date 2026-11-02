@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    " B "
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "create:electron_tube"
+    },
+    "C": {
+      "item": "create:copper_sheet"
+    },
+    "D": {
+      "item": "create:polished_rose_quartz"
+    }
+  },
+  "result": {
+    "id": "chromeware:self_ice",
+    "count": 1
+  }
+}

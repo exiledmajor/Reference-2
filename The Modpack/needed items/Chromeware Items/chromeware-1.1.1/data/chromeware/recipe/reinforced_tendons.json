@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCB",
+    "D D"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:piston"
+    },
+    "B": {
+      "item": "create:copper_sheet"
+    },
+    "C": {
+      "item": "create:belt_connector"
+    },
+    "D": {
+      "item": "create:brass_sheet"
+    }
+  },
+  "result": {
+    "id": "chromeware:reinforced_tendons",
+    "count": 1
+  }
+}

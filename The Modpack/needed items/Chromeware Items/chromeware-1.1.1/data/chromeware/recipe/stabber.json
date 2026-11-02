@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " AB",
+    " C ",
+    "DEF"
+  ],
+  "key": {
+    "A": {
+      "item": "create:electron_tube"
+    },
+    "B": {
+      "item": "create:zinc_nugget"
+    },
+    "C": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "create:brass_sheet"
+    },
+    "E": {
+      "item": "create:andesite_alloy"
+    },
+    "F": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "result": {
+    "id": "chromeware:stabber",
+    "count": 1
+  }
+}

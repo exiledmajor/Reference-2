@@ -1,0 +1,288 @@
+{
+  "credit": "Create: Chromeware surgery chair in Create construction; built in Blockbench via MCP (scripts/model-surgery-chair.py)",
+  "parent": "minecraft:block/block",
+  "textures": {
+    "andesite": "create:block/andesite_casing",
+    "brass": "create:block/brass_casing",
+    "pole": "create:block/mechanical_press_pole",
+    "particle": "create:block/brass_casing"
+  },
+  "elements": [
+    {
+      "name": "head_base",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        2,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            14,
+            16,
+            16
+          ],
+          "texture": "#andesite"
+        },
+        "east": {
+          "uv": [
+            0,
+            14,
+            16,
+            16
+          ],
+          "texture": "#andesite"
+        },
+        "south": {
+          "uv": [
+            0,
+            14,
+            16,
+            16
+          ],
+          "texture": "#andesite"
+        },
+        "west": {
+          "uv": [
+            0,
+            14,
+            16,
+            16
+          ],
+          "texture": "#andesite"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#andesite"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#andesite"
+        }
+      }
+    },
+    {
+      "name": "head_collar",
+      "from": [
+        4,
+        2,
+        4
+      ],
+      "to": [
+        12,
+        3,
+        12
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            13,
+            12,
+            14
+          ],
+          "texture": "#andesite"
+        },
+        "east": {
+          "uv": [
+            4,
+            13,
+            12,
+            14
+          ],
+          "texture": "#andesite"
+        },
+        "south": {
+          "uv": [
+            4,
+            13,
+            12,
+            14
+          ],
+          "texture": "#andesite"
+        },
+        "west": {
+          "uv": [
+            4,
+            13,
+            12,
+            14
+          ],
+          "texture": "#andesite"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            12,
+            12
+          ],
+          "texture": "#andesite"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            12,
+            12
+          ],
+          "texture": "#andesite"
+        }
+      }
+    },
+    {
+      "name": "head_column",
+      "from": [
+        5,
+        3,
+        5
+      ],
+      "to": [
+        11,
+        6,
+        11
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            13,
+            6,
+            16
+          ],
+          "texture": "#pole"
+        },
+        "east": {
+          "uv": [
+            0,
+            13,
+            6,
+            16
+          ],
+          "texture": "#pole"
+        },
+        "south": {
+          "uv": [
+            0,
+            13,
+            6,
+            16
+          ],
+          "texture": "#pole"
+        },
+        "west": {
+          "uv": [
+            0,
+            13,
+            6,
+            16
+          ],
+          "texture": "#pole"
+        },
+        "up": {
+          "uv": [
+            10,
+            0,
+            16,
+            6
+          ],
+          "texture": "#pole"
+        },
+        "down": {
+          "uv": [
+            10,
+            0,
+            16,
+            6
+          ],
+          "texture": "#pole"
+        }
+      }
+    },
+    {
+      "name": "cradle",
+      "from": [
+        2,
+        6,
+        2
+      ],
+      "to": [
+        14,
+        7,
+        14
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            9,
+            14,
+            10
+          ],
+          "texture": "#brass"
+        },
+        "east": {
+          "uv": [
+            2,
+            9,
+            14,
+            10
+          ],
+          "texture": "#brass"
+        },
+        "south": {
+          "uv": [
+            2,
+            9,
+            14,
+            10
+          ],
+          "texture": "#brass"
+        },
+        "west": {
+          "uv": [
+            2,
+            9,
+            14,
+            10
+          ],
+          "texture": "#brass"
+        },
+        "up": {
+          "uv": [
+            2,
+            2,
+            14,
+            14
+          ],
+          "texture": "#brass"
+        },
+        "down": {
+          "uv": [
+            2,
+            2,
+            14,
+            14
+          ],
+          "texture": "#brass"
+        }
+      }
+    }
+  ]
+}

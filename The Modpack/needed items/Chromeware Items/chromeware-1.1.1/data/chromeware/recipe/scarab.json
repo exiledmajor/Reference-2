@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "ACA",
+    " B "
+  ],
+  "key": {
+    "A": {
+      "item": "create:iron_sheet"
+    },
+    "B": {
+      "item": "create:sturdy_sheet"
+    },
+    "C": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "id": "chromeware:scarab",
+    "count": 1
+  }
+}

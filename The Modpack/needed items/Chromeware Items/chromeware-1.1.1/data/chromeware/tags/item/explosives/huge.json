@@ -1,0 +1,21 @@
+{
+  "values": [
+    "minecraft:end_crystal",
+    {
+      "id": "superbwarfare:c4_bomb",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:large_aerial_bomb",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:extra_large_anti_ground_missile",
+      "required": false
+    },
+    {
+      "id": "scguns:nitro_keg",
+      "required": false
+    }
+  ]
+}

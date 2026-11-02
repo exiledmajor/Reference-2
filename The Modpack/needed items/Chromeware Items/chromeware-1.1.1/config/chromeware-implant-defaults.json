@@ -1,0 +1,2468 @@
+{
+  "adrenaline_booster": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 14,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "hunger_refill_fraction": {
+      "default": 0.25,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "adrenaline_converter": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 6,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "duration_seconds": {
+      "default": 9.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "movement_speed_bonus": {
+      "default": 0.6,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "adreno_trigger": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 20,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "duration_seconds": {
+      "default": 35.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "movement_speed_bonus": {
+      "default": 0.4,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "atomic_sensors": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 5,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "enemy_radius": {
+      "default": 24,
+      "max": 512,
+      "min": 0,
+      "unit": "blocks"
+    },
+    "movement_speed_bonus": {
+      "default": 0.6,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "axolotl": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 48,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "kill_refund_fraction": {
+      "default": 0.075,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "bioconductor": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 16,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "quickhack_critical_chance": {
+      "default": 0.35,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "ram_penalty": {
+      "default": 4,
+      "max": 256,
+      "min": 0,
+      "unit": "integer"
+    }
+  },
+  "biomonitor": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 14,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "extra_pump_healing": {
+      "default": 2.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "pump_health_threshold_fraction": {
+      "default": 0.5,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "bionic_joints": {
+    "armor": {
+      "default": 3.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 8,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    }
+  },
+  "black_mamba": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 16,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "poison_damage_multiplier": {
+      "default": 2.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    },
+    "poisoned_target_damage_multiplier": {
+      "default": 1.2,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    }
+  },
+  "blood_pump": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 15,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "charges": {
+      "default": 2,
+      "max": 128,
+      "min": 1,
+      "unit": "integer"
+    },
+    "cooldown_seconds": {
+      "default": 30.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "duration_seconds": {
+      "default": 6.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "healing_per_second": {
+      "default": 1.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "instant_healing": {
+      "default": 6.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    }
+  },
+  "camillo_ram_manager": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 8,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cooldown_seconds": {
+      "default": 80.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "low_ram_threshold_fraction": {
+      "default": 0.2,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "ram_bonus": {
+      "default": 2,
+      "max": 256,
+      "min": 0,
+      "unit": "integer"
+    },
+    "ram_refill_fraction": {
+      "default": 0.2,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "carapace": {
+    "armor": {
+      "default": 2.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 16,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "directional_toughness": {
+      "default": 3.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    }
+  },
+  "chitin": {
+    "armor": {
+      "default": 5.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 50,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "natural_healing_multiplier": {
+      "default": 2.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    }
+  },
+  "chrome_compressor": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 0,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "capacity_bonus": {
+      "default": 70,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    }
+  },
+  "clairvoyant": {
+    "after_scan_seconds": {
+      "default": 60,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 8,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "enemy_range": {
+      "default": 20.0,
+      "max": 256,
+      "min": 0,
+      "unit": "blocks"
+    }
+  },
+  "clutch_padding": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 12,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "hunger_multiplier": {
+      "default": 0.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    }
+  },
+  "cockatrice": {
+    "after_scan_seconds": {
+      "default": 60,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 30,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "critical_damage_bonus": {
+      "default": 0.35,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "cogito_lattice": {
+    "armor": {
+      "default": 2.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 12,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "conditional_armor_multiplier": {
+      "default": 2.4,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    },
+    "ram_threshold": {
+      "default": 10.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    }
+  },
+  "countershell": {
+    "armor": {
+      "default": 2.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 12,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cooldown_seconds": {
+      "default": 6.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "duration_seconds": {
+      "default": 4.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "mitigation_chance": {
+      "default": 0.5,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "trauma_threshold_fraction": {
+      "default": 0.35,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "trauma_window_seconds": {
+      "default": 3,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    }
+  },
+  "cox_2_cybersomatic_optimizer": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 50,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "quickhack_critical_chance": {
+      "default": 1,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "ram_penalty": {
+      "default": 4,
+      "max": 256,
+      "min": 0,
+      "unit": "integer"
+    }
+  },
+  "cyber_arm": {
+    "armor": {
+      "default": 1.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "attack_damage_bonus": {
+      "default": 2.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "capacity": {
+      "default": 0,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "capacity_bonus": {
+      "default": 10,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "humanity_loss_percent": {
+      "default": 5.0,
+      "max": 100,
+      "min": 0,
+      "unit": "percent"
+    }
+  },
+  "cyber_leg": {
+    "armor": {
+      "default": 3.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 0,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "capacity_bonus": {
+      "default": 10,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "fall_damage_reduction_fraction": {
+      "default": 0.25,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "humanity_loss_percent": {
+      "default": 5.0,
+      "max": 100,
+      "min": 0,
+      "unit": "percent"
+    },
+    "safe_fall_distance": {
+      "default": 2.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "blocks"
+    }
+  },
+  "cyber_torso": {
+    "armor": {
+      "default": 6.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 0,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "capacity_bonus": {
+      "default": 10,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "humanity_loss_percent": {
+      "default": 5.0,
+      "max": 100,
+      "min": 0,
+      "unit": "percent"
+    }
+  },
+  "cyberdeck": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 16,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cooldown_seconds": {
+      "default": 30.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "duration_seconds": {
+      "default": 14.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "maximum_ram": {
+      "default": 24,
+      "max": 256,
+      "min": 1,
+      "unit": "integer"
+    },
+    "overclock_extension_per_kill_seconds": {
+      "default": 3,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "ram_recovery_per_second": {
+      "default": 0.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    }
+  },
+  "deep_field_visual_interface": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 40,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "critical_bonus_distance": {
+      "default": 100.0,
+      "max": 512,
+      "min": 0.1,
+      "unit": "blocks"
+    },
+    "maximum_critical_bonus": {
+      "default": 1.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "dense_marrow": {
+    "armor": {
+      "default": 1.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 16,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "hunger_multiplier": {
+      "default": 0.8,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    },
+    "melee_damage_multiplier": {
+      "default": 1.3,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    }
+  },
+  "doomsayer": {
+    "after_scan_seconds": {
+      "default": 60,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 2,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "trap_range": {
+      "default": 30.0,
+      "max": 256,
+      "min": 0,
+      "unit": "blocks"
+    }
+  },
+  "electromag_recycler": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 40,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "restore_fraction": {
+      "default": 0.05,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "epimorphic_skeleton": {
+    "armor": {
+      "default": 4.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 40,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "health_bonus": {
+      "default": 0.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "ex_disk": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 10,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "ram_bonus": {
+      "default": 6,
+      "max": 256,
+      "min": 0,
+      "unit": "integer"
+    },
+    "upload_speed_multiplier": {
+      "default": 1.35,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    }
+  },
+  "extendo_grip": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 4,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "knockback": {
+      "default": 2.0,
+      "max": 100,
+      "min": 0,
+      "unit": "value"
+    },
+    "reach": {
+      "default": 3.0,
+      "max": 64,
+      "min": 0,
+      "unit": "blocks"
+    }
+  },
+  "feedback_circuit": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 14,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "restore_fraction": {
+      "default": 0.035,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "feen_x": {
+    "armor": {
+      "default": 1.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 16,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "ram_threshold": {
+      "default": 7.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "recovery_multiplier": {
+      "default": 3.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    }
+  },
+  "fortified_ankles": {
+    "armor": {
+      "default": 2.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "base_jump_velocity": {
+      "default": 0.42,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "capacity": {
+      "default": 6,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "charge_seconds": {
+      "default": 2,
+      "max": 60,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "charged_jump_velocity_bonus": {
+      "default": 0.58,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    }
+  },
+  "gorilla_arms": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "attack_damage_bonus": {
+      "default": 7.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "bleed_chance": {
+      "default": 0.2,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "bleed_duration_seconds": {
+      "default": 3,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "bleed_health_fraction": {
+      "default": 0.05,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "capacity": {
+      "default": 4,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "charged_cooldown_seconds": {
+      "default": 1,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "charged_damage_multiplier": {
+      "default": 2.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    },
+    "cooldown_seconds": {
+      "default": 0.25,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "shockwave_radius": {
+      "default": 3.0,
+      "max": 64,
+      "min": 0,
+      "unit": "value"
+    }
+  },
+  "handle_wrap": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 8,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "ranged_damage_multiplier": {
+      "default": 1.3,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    }
+  },
+  "heal_on_kill": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 10,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "heal_fraction": {
+      "default": 0.075,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "immovable_force": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 35,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "recoil_multiplier": {
+      "default": 0.65,
+      "max": 10,
+      "min": 0,
+      "unit": "multiplier"
+    },
+    "spread_multiplier": {
+      "default": 0.75,
+      "max": 10,
+      "min": 0,
+      "unit": "multiplier"
+    }
+  },
+  "isometric_stabilizer": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 40,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "hunger_multiplier": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    }
+  },
+  "jenkins_tendons": {
+    "armor": {
+      "default": 1.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 6,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "fatigue_seconds": {
+      "default": 5,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "initial_sprint_bonus": {
+      "default": 1.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "sprint_bonus_decay": {
+      "default": 0.8,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "kinetic_frame": {
+    "armor": {
+      "default": 2.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 16,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "hunger_threshold": {
+      "default": 16.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "mitigation_chance": {
+      "default": 0.2,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "kiroshi_optics": {
+    "after_scan_seconds": {
+      "default": 60,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 2,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    }
+  },
+  "leeroy_ligament_system": {
+    "armor": {
+      "default": 1.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 8,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "movement_speed_bonus": {
+      "default": 0.4,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "lynx_paws": {
+    "armor": {
+      "default": 1.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 5,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "crouch_speed_bonus": {
+      "default": 0.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "fall_damage_multiplier": {
+      "default": 0.8,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    }
+  },
+  "mantis_blades": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 4,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cooldown_seconds": {
+      "default": 0.65,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "cross_cooldown_seconds": {
+      "default": 1,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "cross_damage": {
+      "default": 20.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "damage": {
+      "default": 10.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "leap_range": {
+      "default": 12.0,
+      "max": 64,
+      "min": 0,
+      "unit": "value"
+    }
+  },
+  "mechatronic_core": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 5,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cyberlimb_target_damage_bonus": {
+      "default": 0.15,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "ram_bonus": {
+      "default": 2,
+      "max": 256,
+      "min": 0,
+      "unit": "integer"
+    }
+  },
+  "memory_boost": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 18,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "ram_bonus": {
+      "default": 1,
+      "max": 256,
+      "min": 0,
+      "unit": "integer"
+    },
+    "ram_per_kill": {
+      "default": 1.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    }
+  },
+  "microgenerator": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 9,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "maximum_charges": {
+      "default": 5,
+      "max": 5,
+      "min": 1,
+      "unit": "integer"
+    }
+  },
+  "microrotors": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "attack_speed_bonus": {
+      "default": 0.25,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "capacity": {
+      "default": 12,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    }
+  },
+  "monowire": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 4,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cooldown_seconds": {
+      "default": 0.6,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "cross_cooldown_seconds": {
+      "default": 1,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "cross_damage": {
+      "default": 14.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "damage": {
+      "default": 7.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    }
+  },
+  "neofiber": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 14,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "mitigation_chance": {
+      "default": 0.1,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "mitigation_strength_bonus": {
+      "default": 0.1,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "newton_module": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 14,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cooldown_refund_fraction": {
+      "default": 0.015,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "optical_camo": {
+    "armor": {
+      "default": 1.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 20,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cooldown_seconds": {
+      "default": 50.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "duration_seconds": {
+      "default": 7.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    }
+  },
+  "pain_editor": {
+    "armor": {
+      "default": 3.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 35,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "damage_multiplier": {
+      "default": 0.9,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    }
+  },
+  "painducer": {
+    "armor": {
+      "default": 4.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 30,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "deferred_damage_fraction": {
+      "default": 0.3,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "duration_seconds": {
+      "default": 5,
+      "max": 120,
+      "min": 1,
+      "unit": "seconds (payments occur once per second)"
+    }
+  },
+  "para_bellum": {
+    "armor": {
+      "default": 3.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "armor_bonus": {
+      "default": 0.1,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "capacity": {
+      "default": 25,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    }
+  },
+  "peripheral_inverse": {
+    "armor": {
+      "default": 1.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 30,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "damage_reduction_fraction": {
+      "default": 0.4,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "falloff_end_range": {
+      "default": 6,
+      "max": 256,
+      "min": 0.01,
+      "unit": "blocks"
+    },
+    "full_strength_range": {
+      "default": 3,
+      "max": 256,
+      "min": 0,
+      "unit": "blocks"
+    }
+  },
+  "projectile_launch_system": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "brass_nugget_damage": {
+      "default": 12.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "capacity": {
+      "default": 4,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cooldown_seconds": {
+      "default": 0.5,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "copper_nugget_damage": {
+      "default": 8.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "damage_multiplier": {
+      "default": 1.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    },
+    "experience_nugget_damage": {
+      "default": 3.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "gold_nugget_damage": {
+      "default": 7.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "iron_nugget_damage": {
+      "default": 10.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "volley_cooldown_seconds": {
+      "default": 2,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "volley_shots": {
+      "default": 5,
+      "max": 64,
+      "min": 1,
+      "unit": "integer"
+    },
+    "zinc_nugget_damage": {
+      "default": 6.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    }
+  },
+  "proxishield": {
+    "armor": {
+      "default": 1.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 10,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "damage_reduction_fraction": {
+      "default": 0.2,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "falloff_end_range": {
+      "default": 6,
+      "max": 256,
+      "min": 0.01,
+      "unit": "blocks"
+    },
+    "full_strength_range": {
+      "default": 3,
+      "max": 256,
+      "min": 0,
+      "unit": "blocks"
+    }
+  },
+  "quantum_tuner": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 45,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cooldown_reduction_fraction": {
+      "default": 0.15,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "cooldown_seconds": {
+      "default": 60.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "reserve_seconds": {
+      "default": 50,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    }
+  },
+  "ram_reallocator": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 40,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cooldown_seconds": {
+      "default": 85.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "low_ram_threshold_fraction": {
+      "default": 0.2,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "ram_bonus": {
+      "default": 2,
+      "max": 256,
+      "min": 0,
+      "unit": "integer"
+    },
+    "ram_refill_fraction": {
+      "default": 0.4,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "ram_recoup": {
+    "armor": {
+      "default": 1.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 14,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "damage_to_ram_fraction": {
+      "default": 0.2,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "ram_bonus": {
+      "default": 2,
+      "max": 256,
+      "min": 0,
+      "unit": "integer"
+    }
+  },
+  "ram_upgrade": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 8,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "ram_bonus": {
+      "default": 2,
+      "max": 256,
+      "min": 0,
+      "unit": "integer"
+    },
+    "ram_recovery_per_second": {
+      "default": 0.2,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    }
+  },
+  "rangeguard": {
+    "armor": {
+      "default": 1.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 14,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "conditional_armor_multiplier": {
+      "default": 3.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    },
+    "enemy_radius": {
+      "default": 6.0,
+      "max": 128,
+      "min": 0,
+      "unit": "blocks"
+    }
+  },
+  "rara_avis": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "armor_bonus_fraction": {
+      "default": 0.4,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "capacity": {
+      "default": 45,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    }
+  },
+  "reflex_tuner": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 5,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cooldown_seconds": {
+      "default": 35.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "duration_seconds": {
+      "default": 4.5,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "field_radius": {
+      "default": 48,
+      "max": 512,
+      "min": 0.5,
+      "unit": "blocks"
+    },
+    "health_threshold_fraction": {
+      "default": 0.25,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "slowdown_percent": {
+      "default": 60,
+      "max": 99,
+      "min": 0,
+      "unit": "integer"
+    }
+  },
+  "reinforced_tendons": {
+    "armor": {
+      "default": 0.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 8,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "double_jump_velocity": {
+      "default": 0.42,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    }
+  },
+  "revulsor": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 35,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cooldown_seconds": {
+      "default": 35.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "duration_seconds": {
+      "default": 4.5,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "field_radius": {
+      "default": 48,
+      "max": 512,
+      "min": 0.5,
+      "unit": "blocks"
+    },
+    "health_threshold_fraction": {
+      "default": 0.25,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "slowdown_percent": {
+      "default": 60,
+      "max": 99,
+      "min": 0,
+      "unit": "integer"
+    }
+  },
+  "sandevistan": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 44,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cooldown_seconds": {
+      "default": 30.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "critical_damage_bonus": {
+      "default": 0.2,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "duration_seconds": {
+      "default": 10.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "field_radius": {
+      "default": 48,
+      "max": 512,
+      "min": 0,
+      "unit": "blocks"
+    },
+    "heal_per_kill_fraction": {
+      "default": 0.1,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "kill_extension_seconds": {
+      "default": 1,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "slowdown_percent": {
+      "default": 90,
+      "max": 99,
+      "min": 0,
+      "unit": "integer"
+    }
+  },
+  "scar_coalescer": {
+    "armor": {
+      "default": 1.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "armor_bonus": {
+      "default": 0.2,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "capacity": {
+      "default": 20,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "health_threshold_fraction": {
+      "default": 0.5,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "scarab": {
+    "armor": {
+      "default": 1.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 14,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "crouched_armor_multiplier": {
+      "default": 3.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    },
+    "movement_speed_penalty_fraction": {
+      "default": -0.3,
+      "max": 1,
+      "min": -0.99,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "second_heart": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 30,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cooldown_seconds": {
+      "default": 220.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    }
+  },
+  "self_ice": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 5,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cooldown_seconds": {
+      "default": 20.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "ram_bonus": {
+      "default": 2,
+      "max": 256,
+      "min": 0,
+      "unit": "integer"
+    }
+  },
+  "sentry": {
+    "after_scan_seconds": {
+      "default": 60,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 2,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "device_range": {
+      "default": 40.0,
+      "max": 256,
+      "min": 0,
+      "unit": "blocks"
+    }
+  },
+  "shock_absorber": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 12,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "recoil_multiplier": {
+      "default": 0.75,
+      "max": 10,
+      "min": 0,
+      "unit": "multiplier"
+    }
+  },
+  "shock_n_awe": {
+    "armor": {
+      "default": 2.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 25,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "discharge_chance": {
+      "default": 0.2,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "discharge_damage": {
+      "default": 10.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "discharge_radius": {
+      "default": 6.0,
+      "max": 128,
+      "min": 0,
+      "unit": "blocks"
+    }
+  },
+  "spring_joints": {
+    "armor": {
+      "default": 1.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 16,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "mitigation_strength_bonus": {
+      "default": 0.2,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "stabber": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 12,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "critical_damage_bonus": {
+      "default": 0.2,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "stalker": {
+    "after_scan_seconds": {
+      "default": 60,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 2,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "horizontal_range": {
+      "default": 20.0,
+      "max": 256,
+      "min": 0,
+      "unit": "blocks"
+    },
+    "vertical_range": {
+      "default": 50.0,
+      "max": 256,
+      "min": 0,
+      "unit": "blocks"
+    }
+  },
+  "subdermal_armor": {
+    "armor": {
+      "default": 1.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 5,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    }
+  },
+  "the_oracle": {
+    "after_scan_seconds": {
+      "default": 60,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 10,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    }
+  },
+  "threat_evac": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 5,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "extra_low_health_bonus": {
+      "default": 0.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "health_threshold_fraction": {
+      "default": 0.25,
+      "max": 1,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "movement_speed_bonus": {
+      "default": 0.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "titanium_bones": {
+    "armor": {
+      "default": 1.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 6,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "stack_capacity_bonus_fraction": {
+      "default": 0.5,
+      "max": 10,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "tyrosine_injector": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 8,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "duration_seconds": {
+      "default": 15.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "maximum_stacks": {
+      "default": 10,
+      "max": 100,
+      "min": 1,
+      "unit": "integer"
+    },
+    "movement_speed_bonus": {
+      "default": 0.1,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "universal_booster": {
+    "armor": {
+      "default": 4.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "armor_bonus_per_stack": {
+      "default": 0.1,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "armor_duration_seconds": {
+      "default": 6,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "capacity": {
+      "default": 25,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "hunger_duration_seconds": {
+      "default": 5,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "hunger_multiplier": {
+      "default": 0.7,
+      "max": 1000,
+      "min": 0,
+      "unit": "multiplier"
+    }
+  },
+  "visual_cortex_support": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "capacity": {
+      "default": 20,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "critical_bonus_distance": {
+      "default": 30.0,
+      "max": 512,
+      "min": 0.1,
+      "unit": "blocks"
+    },
+    "maximum_critical_bonus": {
+      "default": 0.3,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    }
+  },
+  "zetatech_berserk": {
+    "armor": {
+      "default": 0.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "half armor points"
+    },
+    "attack_speed_bonus": {
+      "default": 0.3,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "capacity": {
+      "default": 35,
+      "max": 10000,
+      "min": 0,
+      "unit": "integer"
+    },
+    "cooldown_seconds": {
+      "default": 25.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "duration_seconds": {
+      "default": 11.0,
+      "max": 3600,
+      "min": 0.05,
+      "unit": "seconds"
+    },
+    "heal_per_kill_fraction": {
+      "default": 0.25,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "maximum_bonus_missing_health_fraction": {
+      "default": 0.8,
+      "max": 1,
+      "min": 0.001,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "maximum_melee_damage_bonus_fraction": {
+      "default": 0.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "movement_speed_bonus": {
+      "default": 0.5,
+      "max": 1000,
+      "min": 0,
+      "unit": "fraction (0.1 = 10%)"
+    },
+    "slam_damage": {
+      "default": 6.0,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "slam_knockback": {
+      "default": 0.8,
+      "max": 1000,
+      "min": 0,
+      "unit": "value"
+    },
+    "slam_radius": {
+      "default": 4.0,
+      "max": 128,
+      "min": 0,
+      "unit": "blocks"
+    }
+  }
+}

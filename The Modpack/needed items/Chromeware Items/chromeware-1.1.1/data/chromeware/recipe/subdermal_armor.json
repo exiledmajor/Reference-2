@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "A A",
+    "AAA",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    }
+  },
+  "result": {
+    "id": "chromeware:subdermal_armor",
+    "count": 1
+  }
+}

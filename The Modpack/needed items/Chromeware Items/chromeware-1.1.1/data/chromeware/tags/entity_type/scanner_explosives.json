@@ -1,0 +1,103 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:tnt",
+    "minecraft:tnt_minecart",
+    {
+      "id": "superbwarfare:claymore",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:blu_43",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:tm_62",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:ptkm_1r",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:c4",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:gun_grenade",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:hand_grenade",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:rgo_grenade",
+      "required": false
+    },
+    {
+      "id": "scguns:primed_powder_keg",
+      "required": false
+    },
+    {
+      "id": "scguns:primed_nitro_keg",
+      "required": false
+    },
+    {
+      "id": "scguns:grenade",
+      "required": false
+    },
+    {
+      "id": "scguns:rocket",
+      "required": false
+    },
+    {
+      "id": "scguns:he_grenade_round",
+      "required": false
+    },
+    {
+      "id": "scguns:fire_grenade_round",
+      "required": false
+    },
+    {
+      "id": "scguns:gas_grenade_round",
+      "required": false
+    },
+    {
+      "id": "scguns:bouncy_grenade_round",
+      "required": false
+    },
+    {
+      "id": "scguns:throwable_grenade",
+      "required": false
+    },
+    {
+      "id": "scguns:throwable_molotov_cocktail",
+      "required": false
+    },
+    {
+      "id": "scguns:throwable_gas_grenade",
+      "required": false
+    },
+    {
+      "id": "scguns:throwable_choke_bomb",
+      "required": false
+    },
+    {
+      "id": "scguns:throwable_swarm_bomb",
+      "required": false
+    },
+    {
+      "id": "scguns:throwable_shotball",
+      "required": false
+    },
+    {
+      "id": "scguns:throwable_nail_bomb",
+      "required": false
+    },
+    {
+      "id": "scguns:throwable_hellfire_bomb",
+      "required": false
+    }
+  ]
+}

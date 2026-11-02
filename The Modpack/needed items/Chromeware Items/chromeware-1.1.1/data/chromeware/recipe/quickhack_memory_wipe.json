@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "create:powered_latch"
+    },
+    "C": {
+      "item": "create:polished_rose_quartz"
+    },
+    "D": {
+      "item": "create:electron_tube"
+    },
+    "E": {
+      "item": "minecraft:comparator"
+    }
+  },
+  "result": {
+    "id": "chromeware:quickhack_memory_wipe",
+    "count": 1
+  }
+}

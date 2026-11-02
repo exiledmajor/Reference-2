@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " AB",
+    "ACA",
+    "BA "
+  ],
+  "key": {
+    "A": {
+      "item": "create:iron_sheet"
+    },
+    "B": {
+      "item": "create:andesite_alloy"
+    },
+    "C": {
+      "item": "create:brass_sheet"
+    }
+  },
+  "result": {
+    "id": "chromeware:titanium_bones",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABC",
+    "DED",
+    " F "
+  ],
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "B": {
+      "item": "chromeware:empty_syringe"
+    },
+    "C": {
+      "item": "minecraft:spider_eye"
+    },
+    "D": {
+      "item": "create:brass_sheet"
+    },
+    "E": {
+      "item": "create:electron_tube"
+    },
+    "F": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "result": {
+    "id": "chromeware:black_mamba",
+    "count": 1
+  }
+}

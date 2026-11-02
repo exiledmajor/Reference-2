@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "A A",
+    "ABA",
+    "C C"
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "create:copper_sheet"
+    },
+    "C": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "id": "chromeware:lynx_paws",
+    "count": 1
+  }
+}

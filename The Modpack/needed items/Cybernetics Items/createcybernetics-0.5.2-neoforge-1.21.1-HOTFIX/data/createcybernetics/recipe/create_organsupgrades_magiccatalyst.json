@@ -1,0 +1,37 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+
+  "key": {
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "X": {
+      "item": "minecraft:ghast_tear"
+    },
+    "Q": {
+      "item": "createcybernetics:netherite_qpu"
+    },
+    "D": {
+      "item": "createcybernetics:organsupgrades_dualisticconverter"
+    },
+    "T": {
+      "item": "createcybernetics:component_diodes"
+    }
+  },
+
+  "pattern": [
+    " XTX ",
+    "XTNTX",
+    " QDQ ",
+    "XTNTX",
+    " XTX "
+  ],
+
+  "result": {
+    "count": 1,
+    "id": "createcybernetics:organsupgrades_magiccatalyst"
+  },
+  "show_notification": false
+}

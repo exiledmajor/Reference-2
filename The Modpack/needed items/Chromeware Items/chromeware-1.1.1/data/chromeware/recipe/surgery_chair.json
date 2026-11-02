@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [" S ", "BMB", "ACA"],
+  "key": {
+    "S": {"tag": "create:seats"},
+    "B": {"item": "create:brass_sheet"},
+    "M": {"item": "create:precision_mechanism"},
+    "A": {"item": "create:andesite_alloy"},
+    "C": {"item": "create:brass_casing"}
+  },
+  "result": {"id": "chromeware:surgery_chair", "count": 1}
+}

@@ -1,0 +1,199 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:redstone_wire",
+    "minecraft:redstone_torch",
+    "minecraft:redstone_wall_torch",
+    "minecraft:redstone_block",
+    "minecraft:repeater",
+    "minecraft:comparator",
+    "minecraft:lever",
+    "#minecraft:buttons",
+    "#minecraft:doors",
+    "#minecraft:trapdoors",
+    "#minecraft:fence_gates",
+    "minecraft:redstone_lamp",
+    "minecraft:note_block",
+    "minecraft:bell",
+    "minecraft:daylight_detector",
+    "minecraft:target",
+    "minecraft:hopper",
+    "minecraft:crafter",
+    "minecraft:powered_rail",
+    "minecraft:detector_rail",
+    "minecraft:lightning_rod",
+    "minecraft:lectern",
+    "minecraft:copper_bulb",
+    "minecraft:exposed_copper_bulb",
+    "minecraft:weathered_copper_bulb",
+    "minecraft:oxidized_copper_bulb",
+    "minecraft:waxed_copper_bulb",
+    "minecraft:waxed_exposed_copper_bulb",
+    "minecraft:waxed_weathered_copper_bulb",
+    "minecraft:waxed_oxidized_copper_bulb",
+    {
+      "id": "create:redstone_link",
+      "required": false
+    },
+    {
+      "id": "create:analog_lever",
+      "required": false
+    },
+    {
+      "id": "create:pulse_repeater",
+      "required": false
+    },
+    {
+      "id": "create:pulse_extender",
+      "required": false
+    },
+    {
+      "id": "create:pulse_timer",
+      "required": false
+    },
+    {
+      "id": "create:powered_latch",
+      "required": false
+    },
+    {
+      "id": "create:powered_toggle_latch",
+      "required": false
+    },
+    {
+      "id": "create:nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:white_nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:orange_nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:magenta_nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:light_blue_nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:yellow_nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:lime_nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:pink_nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:gray_nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:light_gray_nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:cyan_nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:purple_nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:blue_nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:brown_nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:green_nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:red_nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:black_nixie_tube",
+      "required": false
+    },
+    {
+      "id": "create:rose_quartz_lamp",
+      "required": false
+    },
+    {
+      "id": "create:stockpile_switch",
+      "required": false
+    },
+    {
+      "id": "create:display_link",
+      "required": false
+    },
+    {
+      "id": "create:gearshift",
+      "required": false
+    },
+    {
+      "id": "create:clutch",
+      "required": false
+    },
+    {
+      "id": "create:sequenced_gearshift",
+      "required": false
+    },
+    {
+      "id": "create:adjustable_chain_gearshift",
+      "required": false
+    },
+    {
+      "id": "create:steam_whistle",
+      "required": false
+    },
+    {
+      "id": "create:redstone_requester",
+      "required": false
+    },
+    {
+      "id": "create:elevator_contact",
+      "required": false
+    },
+    {
+      "id": "create:contraption_controls",
+      "required": false
+    },
+    {
+      "id": "create:cart_assembler",
+      "required": false
+    },
+    {
+      "id": "scguns:basic_turret",
+      "required": false
+    },
+    {
+      "id": "scguns:shotgun_turret",
+      "required": false
+    },
+    {
+      "id": "scguns:sniper_turret",
+      "required": false
+    },
+    {
+      "id": "scguns:auto_turret",
+      "required": false
+    },
+    {
+      "id": "scguns:enemy_turret",
+      "required": false
+    }
+  ]
+}

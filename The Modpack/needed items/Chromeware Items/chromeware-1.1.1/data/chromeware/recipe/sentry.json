@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    " C ",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "create:redstone_link"
+    },
+    "C": {
+      "item": "chromeware:kiroshi_optics"
+    },
+    "D": {
+      "item": "minecraft:comparator"
+    }
+  },
+  "result": {
+    "id": "chromeware:sentry",
+    "count": 1
+  }
+}

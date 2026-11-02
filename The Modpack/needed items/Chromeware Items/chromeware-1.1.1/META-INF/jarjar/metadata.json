@@ -1,0 +1,16 @@
+{
+  "jars": [
+    {
+      "identifier": {
+        "group": "com.zigythebird.playeranim",
+        "artifact": "PlayerAnimationLibNeo"
+      },
+      "version": {
+        "range": "[1.1.6+mc.1.21.1,)",
+        "artifactVersion": "1.1.6+mc.1.21.1"
+      },
+      "path": "META-INF/jarjar/PlayerAnimationLibNeo-1.1.6+mc.1.21.1.jar",
+      "isObfuscated": false
+    }
+  ]
+}

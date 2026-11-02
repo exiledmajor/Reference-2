@@ -1,0 +1,107 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "minecraft:savanna",
+    "minecraft:windswept_savanna",
+    "minecraft:desert",
+    "minecraft:badlands",
+    "minecraft:eroded_badlands",
+
+    {
+      "id": "biomesoplenty:chaparral",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:dryland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:field",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:lavender_field",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:lush_desert",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:lush_savanna",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:outback",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:prairie",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:shrubland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:wasteland",
+      "required": false
+    },
+
+    {
+      "id": "regions_unexplored:arid_mountains",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:baobab_savanna",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:barley_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:clover_plains",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:dry_bushland",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:highland_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:pumice_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:shrubland",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:steppe",
+      "required": false
+    },
+
+    {
+      "id": "byg:allium_fields",
+      "required": false
+    },
+    {
+      "id": "byg:amaranth_fields",
+      "required": false
+    },
+    {
+      "id": "byg:prairie",
+      "required": false
+    },
+    {
+      "id": "byg:rose_fields",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "create"
+      }
+    }
+  ],
+  "type": "createcybernetics:engineering_table",
+  "accept_mirrored": true,
+  "category": "misc",
+
+  "key": {
+    "R": {
+      "item": "minecraft:calibrated_sculk_sensor"
+    },
+    "P": {
+      "item": "createcybernetics:component_plating"
+    },
+    "W": {
+      "item": "createcybernetics:component_wiring"
+    },
+    "D": {
+      "item": "createcybernetics:component_diodes"
+    },
+    "S": {
+      "item": "createcybernetics:component_ssd"
+    },
+    "E": {
+      "item": "createcybernetics:component_led"
+    }
+  },
+
+  "pattern": [
+    "R    ",
+    "PPPPP",
+    "PWDEP",
+    "PSSSP",
+    "PPPPP"
+  ],
+
+  "result": {
+    "count": 1,
+    "id": "createcybernetics:brainupgrades_cyberdeck"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "chromeware:surgery",
+    "chromeware:gorilla_bleed",
+    "chromeware:immunosuppressant",
+    "chromeware:true_damage",
+    "chromeware:suicide",
+    "chromeware:system_collapse"
+  ]
+}

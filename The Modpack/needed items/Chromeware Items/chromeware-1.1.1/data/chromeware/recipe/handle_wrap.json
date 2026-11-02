@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " AB",
+    "CBA",
+    "B  "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:leather"
+    },
+    "B": {
+      "item": "create:brass_sheet"
+    },
+    "C": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "id": "chromeware:handle_wrap",
+    "count": 1
+  }
+}

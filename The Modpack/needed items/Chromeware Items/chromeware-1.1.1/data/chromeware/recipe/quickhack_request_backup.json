@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCB",
+    "DED"
+  ],
+  "key": {
+    "A": {
+      "item": "create:redstone_link"
+    },
+    "B": {
+      "item": "create:electron_tube"
+    },
+    "C": {
+      "item": "create:polished_rose_quartz"
+    },
+    "D": {
+      "item": "create:brass_sheet"
+    },
+    "E": {
+      "item": "minecraft:bell"
+    }
+  },
+  "result": {
+    "id": "chromeware:quickhack_request_backup",
+    "count": 1
+  }
+}

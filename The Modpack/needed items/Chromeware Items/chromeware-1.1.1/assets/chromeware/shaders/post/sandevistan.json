@@ -1,0 +1,43 @@
+{
+  "targets": [
+    "swap",
+    "afterimages",
+    "live",
+    "scene_depth",
+    "entity_depth"
+  ],
+  "passes": [
+    {
+      "name": "chromeware:sandevistan",
+      "intarget": "minecraft:main",
+      "outtarget": "swap",
+      "auxtargets": [
+        {
+          "name": "AfterimagesSampler",
+          "id": "afterimages"
+        },
+        {
+          "name": "AfterimagesDepthSampler",
+          "id": "afterimages:depth"
+        },
+        {
+          "name": "LiveSampler",
+          "id": "live"
+        },
+        {
+          "name": "SceneDepthSampler",
+          "id": "scene_depth:depth"
+        },
+        {
+          "name": "EntityDepthSampler",
+          "id": "entity_depth:depth"
+        }
+      ]
+    },
+    {
+      "name": "blit",
+      "intarget": "swap",
+      "outtarget": "minecraft:main"
+    }
+  ]
+}

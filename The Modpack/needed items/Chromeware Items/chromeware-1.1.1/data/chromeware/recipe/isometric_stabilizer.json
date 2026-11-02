@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "AEA"
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "create:electron_tube"
+    },
+    "C": {
+      "item": "create:sturdy_sheet"
+    },
+    "D": {
+      "item": "chromeware:clutch_padding"
+    },
+    "E": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "result": {
+    "id": "chromeware:isometric_stabilizer",
+    "count": 1
+  }
+}

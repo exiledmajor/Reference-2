@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " AB",
+    "CDC",
+    "E  "
+  ],
+  "key": {
+    "A": {
+      "item": "create:copper_sheet"
+    },
+    "B": {
+      "item": "chromeware:empty_syringe"
+    },
+    "C": {
+      "item": "create:brass_sheet"
+    },
+    "D": {
+      "item": "create:andesite_alloy"
+    },
+    "E": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "chromeware:adrenaline_converter",
+    "count": 1
+  }
+}

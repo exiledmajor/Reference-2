@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "chromeware:empty_syringe"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 250,
+      "fluid": "chromeware:military_immunosuppressant"
+    }
+  ],
+  "results": [
+    {
+      "id": "chromeware:military_grade_immunosuppressant"
+    }
+  ]
+}

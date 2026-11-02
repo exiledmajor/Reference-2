@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "ACA",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "create:copper_sheet"
+    },
+    "C": {
+      "item": "create:electron_tube"
+    },
+    "D": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "result": {
+    "id": "chromeware:scar_coalescer",
+    "count": 1
+  }
+}

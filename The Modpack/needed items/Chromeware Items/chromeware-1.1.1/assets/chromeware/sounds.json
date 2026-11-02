@@ -1,0 +1,58 @@
+{
+  "sandy_on": {
+    "sounds": [
+      {
+        "name": "chromeware:sandy_on",
+        "preload": true
+      }
+    ]
+  },
+  "sandy_off": {
+    "sounds": [
+      {
+        "name": "chromeware:sandy_off",
+        "preload": true
+      }
+    ]
+  },
+  "psychosis_glitch": {
+    "sounds": [
+      {
+        "name": "chromeware:psychosis/glitch_1"
+      },
+      {
+        "name": "chromeware:psychosis/glitch_2"
+      }
+    ]
+  },
+  "psychosis_glitch_threshold": {
+    "sounds": [
+      {
+        "name": "chromeware:psychosis/glitch_threshold"
+      }
+    ]
+  },
+  "psychosis_heartbeat": {
+    "sounds": [
+      {
+        "name": "chromeware:psychosis/heartbeat_1"
+      },
+      {
+        "name": "chromeware:psychosis/heartbeat_2"
+      }
+    ]
+  },
+  "psychosis_heartbeat_threshold": {
+    "sounds": [
+      {
+        "name": "chromeware:psychosis/heartbeat_threshold"
+      }
+    ]
+  },
+  "ping": {
+    "subtitle": "subtitles.chromeware.ping",
+    "sounds": [
+      "chromeware:netrunning/ping"
+    ]
+  }
+}

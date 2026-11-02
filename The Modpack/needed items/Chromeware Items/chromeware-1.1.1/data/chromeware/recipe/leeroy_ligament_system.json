@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "create:copper_sheet"
+    },
+    "B": {
+      "item": "create:cogwheel"
+    },
+    "C": {
+      "item": "create:iron_sheet"
+    },
+    "D": {
+      "item": "create:belt_connector"
+    },
+    "E": {
+      "item": "create:brass_sheet"
+    }
+  },
+  "result": {
+    "id": "chromeware:leeroy_ligament_system",
+    "count": 1
+  }
+}

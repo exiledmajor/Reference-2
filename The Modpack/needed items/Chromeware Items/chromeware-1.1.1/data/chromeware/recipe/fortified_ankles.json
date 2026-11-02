@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    " C "
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "create:iron_sheet"
+    },
+    "C": {
+      "item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "id": "chromeware:fortified_ankles",
+    "count": 1
+  }
+}

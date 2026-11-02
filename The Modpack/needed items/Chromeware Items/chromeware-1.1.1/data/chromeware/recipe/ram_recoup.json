@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EFE"
+  ],
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "B": {
+      "item": "create:zinc_nugget"
+    },
+    "C": {
+      "item": "create:brass_sheet"
+    },
+    "D": {
+      "item": "create:electron_tube"
+    },
+    "E": {
+      "item": "create:iron_sheet"
+    },
+    "F": {
+      "item": "create:polished_rose_quartz"
+    }
+  },
+  "result": {
+    "id": "chromeware:ram_recoup",
+    "count": 1
+  }
+}

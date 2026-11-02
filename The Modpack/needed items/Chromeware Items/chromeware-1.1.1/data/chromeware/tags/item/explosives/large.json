@@ -1,0 +1,66 @@
+{
+  "values": [
+    "minecraft:tnt",
+    "minecraft:tnt_minecart",
+    {
+      "id": "pointblank:at4_rocket",
+      "required": false
+    },
+    {
+      "id": "pointblank:javelin_rocket",
+      "required": false
+    },
+    {
+      "id": "pointblank:smaw_rocket",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:javelin_missile",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:tow_missile",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:rpg_rocket_standard",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:rpg_rocket_tbg",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:large_anti_ground_missile",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:large_anti_air_missile",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:medium_aerial_bomb",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:large_shell_he",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:mortar_shell",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:high_energy_explosives",
+      "required": false
+    },
+    {
+      "id": "scguns:rocket",
+      "required": false
+    },
+    {
+      "id": "scguns:powder_keg",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCB",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:observer"
+    },
+    "B": {
+      "item": "create:electron_tube"
+    },
+    "C": {
+      "item": "chromeware:adrenaline_converter"
+    },
+    "D": {
+      "item": "create:brass_sheet"
+    }
+  },
+  "result": {
+    "id": "chromeware:adreno_trigger",
+    "count": 1
+  }
+}

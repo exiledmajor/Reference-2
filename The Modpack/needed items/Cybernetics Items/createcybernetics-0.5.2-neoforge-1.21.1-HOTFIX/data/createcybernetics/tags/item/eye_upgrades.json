@@ -1,0 +1,21 @@
+{
+  "values": [
+    "createcybernetics:eyeupgrades_monovision",
+    "createcybernetics:eyeupgrades_multioptics1",
+    "createcybernetics:eyeupgrades_multioptics2",
+    "createcybernetics:eyeupgrades_multioptics3",
+    "createcybernetics:eyeupgrades_multioptics4",
+    "createcybernetics:eyeupgrades_hudlens",
+    "createcybernetics:eyeupgrades_hudjack",
+    "createcybernetics:eyeupgrades_nightvision",
+    "createcybernetics:eyeupgrades_targeting",
+    "createcybernetics:eyeupgrades_underwatervision",
+    "createcybernetics:eyeupgrades_zoom",
+    "createcybernetics:eyeupgrades_trajectorycalculator",
+    "createcybernetics:eyeupgrades_biomonitor",
+    {
+      "id": "createcybernetics:eyeupgrades_navigationchip",
+      "required": false
+    }
+  ]
+}

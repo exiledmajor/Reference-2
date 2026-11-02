@@ -1,0 +1,71 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:tnt",
+    "minecraft:dispenser",
+    "minecraft:dropper",
+    "minecraft:trapped_chest",
+    "minecraft:tripwire_hook",
+    "minecraft:tripwire",
+    "#minecraft:pressure_plates",
+    "minecraft:piston",
+    "minecraft:sticky_piston",
+    "minecraft:observer",
+    "minecraft:sculk_sensor",
+    "minecraft:calibrated_sculk_sensor",
+    "minecraft:activator_rail",
+    "minecraft:respawn_anchor",
+    {
+      "id": "create:mechanical_piston",
+      "required": false
+    },
+    {
+      "id": "create:sticky_mechanical_piston",
+      "required": false
+    },
+    {
+      "id": "create:deployer",
+      "required": false
+    },
+    {
+      "id": "create:mechanical_drill",
+      "required": false
+    },
+    {
+      "id": "create:mechanical_saw",
+      "required": false
+    },
+    {
+      "id": "create:crushing_wheel",
+      "required": false
+    },
+    {
+      "id": "create:encased_fan",
+      "required": false
+    },
+    {
+      "id": "create:redstone_contact",
+      "required": false
+    },
+    {
+      "id": "create:content_observer",
+      "required": false
+    },
+    {
+      "id": "create:track_observer",
+      "required": false
+    },
+    {
+      "id": "scguns:mine_unit",
+      "required": false
+    },
+    {
+      "id": "scguns:powder_keg",
+      "required": false
+    },
+    {
+      "id": "scguns:nitro_keg",
+      "required": false
+    }
+  ]
+}

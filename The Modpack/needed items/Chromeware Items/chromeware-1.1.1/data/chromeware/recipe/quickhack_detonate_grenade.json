@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EFE"
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "minecraft:tnt"
+    },
+    "C": {
+      "item": "create:electron_tube"
+    },
+    "D": {
+      "item": "create:precision_mechanism"
+    },
+    "E": {
+      "item": "create:polished_rose_quartz"
+    },
+    "F": {
+      "item": "minecraft:dispenser"
+    }
+  },
+  "result": {
+    "id": "chromeware:quickhack_detonate_grenade",
+    "count": 1
+  }
+}

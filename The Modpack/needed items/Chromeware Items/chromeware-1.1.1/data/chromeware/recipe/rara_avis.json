@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ADA"
+  ],
+  "key": {
+    "A": {
+      "item": "create:sturdy_sheet"
+    },
+    "B": {
+      "item": "create:brass_sheet"
+    },
+    "C": {
+      "item": "chromeware:para_bellum"
+    },
+    "D": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "result": {
+    "id": "chromeware:rara_avis",
+    "count": 1
+  }
+}

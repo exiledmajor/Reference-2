@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "DED"
+  ],
+  "key": {
+    "A": {
+      "item": "create:zinc_nugget"
+    },
+    "B": {
+      "item": "create:brass_sheet"
+    },
+    "C": {
+      "item": "create:polished_rose_quartz"
+    },
+    "D": {
+      "item": "create:iron_sheet"
+    },
+    "E": {
+      "item": "create:electron_tube"
+    }
+  },
+  "result": {
+    "id": "chromeware:bioconductor",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCB",
+    " B "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:observer"
+    },
+    "B": {
+      "item": "create:brass_sheet"
+    },
+    "C": {
+      "item": "create:electron_tube"
+    }
+  },
+  "result": {
+    "id": "chromeware:proxishield",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAA",
+    "BCB",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "chromeware:empty_syringe"
+    },
+    "B": {
+      "item": "create:brass_sheet"
+    },
+    "C": {
+      "item": "create:andesite_alloy"
+    },
+    "D": {
+      "item": "create:copper_sheet"
+    }
+  },
+  "result": {
+    "id": "chromeware:threat_evac",
+    "count": 1
+  }
+}

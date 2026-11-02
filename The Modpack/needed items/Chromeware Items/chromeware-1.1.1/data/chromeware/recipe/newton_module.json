@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCB",
+    "DED"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:clock"
+    },
+    "B": {
+      "item": "create:brass_sheet"
+    },
+    "C": {
+      "item": "create:electron_tube"
+    },
+    "D": {
+      "item": "create:iron_sheet"
+    },
+    "E": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "id": "chromeware:newton_module",
+    "count": 1
+  }
+}

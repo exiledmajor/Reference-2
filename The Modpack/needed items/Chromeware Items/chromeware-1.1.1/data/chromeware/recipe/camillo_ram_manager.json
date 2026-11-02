@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ADA"
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "create:polished_rose_quartz"
+    },
+    "C": {
+      "item": "minecraft:comparator"
+    },
+    "D": {
+      "item": "create:electron_tube"
+    }
+  },
+  "result": {
+    "id": "chromeware:camillo_ram_manager",
+    "count": 1
+  }
+}

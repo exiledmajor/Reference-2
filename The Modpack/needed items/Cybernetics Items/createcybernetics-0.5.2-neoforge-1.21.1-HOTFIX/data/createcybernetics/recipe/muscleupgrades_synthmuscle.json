@@ -1,0 +1,30 @@
+{
+  "type": "createcybernetics:engineering_table",
+  "accept_mirrored": true,
+  "category": "misc",
+
+  "key": {
+    "G": {
+      "item": "createcybernetics:graphene_elastomer"
+    },
+    "M": {
+      "item": "createcybernetics:component_mesh"
+    },
+    "B": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+
+  "pattern": [
+    "   GG",
+    " MGMG",
+    " GBG ",
+    "GMGM ",
+    "GG   "
+  ],
+
+  "result": {
+    "count": 1,
+    "id": "createcybernetics:muscleupgrades_synthmuscle"
+  }
+}

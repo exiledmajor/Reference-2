@@ -1,0 +1,45 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "create:electron_tube"
+    },
+    "C": {
+      "item": "create:iron_sheet"
+    },
+    "D": {
+      "item": "create:precision_mechanism"
+    },
+    "E": {
+      "item": "minecraft:clock"
+    },
+    "F": {
+      "item": "create:zinc_nugget"
+    },
+    "G": {
+      "item": "create:rotation_speed_controller"
+    },
+    "H": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "CDC",
+    "AEA",
+    "FGF",
+    "AHA",
+    "CDC",
+    "ABA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "chromeware:sandevistan"
+  },
+  "show_notification": false
+}

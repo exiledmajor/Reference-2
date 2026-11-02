@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "AEA"
+  ],
+  "key": {
+    "A": {
+      "item": "create:polished_rose_quartz"
+    },
+    "B": {
+      "item": "create:precision_mechanism"
+    },
+    "C": {
+      "item": "create:electron_tube"
+    },
+    "D": {
+      "item": "chromeware:camillo_ram_manager"
+    },
+    "E": {
+      "item": "create:golden_sheet"
+    }
+  },
+  "result": {
+    "id": "chromeware:ram_reallocator",
+    "count": 1
+  }
+}

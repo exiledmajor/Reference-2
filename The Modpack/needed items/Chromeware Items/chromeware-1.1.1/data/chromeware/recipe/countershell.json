@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "minecraft:comparator"
+    },
+    "C": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "id": "chromeware:countershell",
+    "count": 1
+  }
+}

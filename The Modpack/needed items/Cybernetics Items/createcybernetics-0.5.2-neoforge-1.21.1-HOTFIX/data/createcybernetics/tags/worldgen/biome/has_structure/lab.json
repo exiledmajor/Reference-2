@@ -1,0 +1,369 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:badlands",
+    "minecraft:birch_forest",
+    "minecraft:cherry_grove",
+    "minecraft:dark_forest",
+    "minecraft:desert",
+    "minecraft:eroded_badlands",
+    "minecraft:flower_forest",
+    "minecraft:forest",
+    "minecraft:grove",
+    "minecraft:jungle",
+    "minecraft:meadow",
+    "minecraft:old_growth_birch_forest",
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:plains",
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
+    "minecraft:snowy_plains",
+    "minecraft:snowy_taiga",
+    "minecraft:sparse_jungle",
+    "minecraft:stony_peaks",
+    "minecraft:sunflower_plains",
+    "minecraft:taiga",
+    "minecraft:windswept_forest",
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:windswept_hills",
+    "minecraft:windswept_savanna",
+    "minecraft:wooded_badlands",
+
+    {
+      "id": "biomesoplenty:alps",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:boreal_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:chaparral",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:coniferous_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:dead_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:dryland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:field",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:fir_clearing",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:fungal_jungle",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:highland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:jacaranda_glade",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:lavender_field",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:lush_desert",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:lush_savanna",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:maple_woods",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:mediterranean_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:moor",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:mystic_grove",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:orchard",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:outback",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:prairie",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:redwood_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:seasonal_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:shrubland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:snowblossom_grove",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:snowy_coniferous_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:snowy_fir_clearing",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:snowy_maple_woods",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:tundra",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:wasteland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:woodland",
+      "required": false
+    },
+
+    {
+      "id": "regions_unexplored:alpha_grove",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:arid_mountains",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:autumnal_maple_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:bamboo_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:baobab_savanna",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:barley_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:clover_plains",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:dark_redwood_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:dry_bushland",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:eucalyptus_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:frozen_pine_taiga",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:frozen_tundra",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:golden_boreal_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:highland_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:maple_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:mauve_hills",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:orchard",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:pine_slopes",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:pumice_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:redwood_valleys",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:shrubland",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:silver_birch_hills",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:steppe",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:willow_forest",
+      "required": false
+    },
+
+    {
+      "id": "byg:allium_fields",
+      "required": false
+    },
+    {
+      "id": "byg:amaranth_fields",
+      "required": false
+    },
+    {
+      "id": "byg:autumnal_valley",
+      "required": false
+    },
+    {
+      "id": "byg:black_forest",
+      "required": false
+    },
+    {
+      "id": "byg:borealis_grove",
+      "required": false
+    },
+    {
+      "id": "byg:cika_woods",
+      "required": false
+    },
+    {
+      "id": "byg:cypress_ridges",
+      "required": false
+    },
+    {
+      "id": "byg:dead_sea",
+      "required": false
+    },
+    {
+      "id": "byg:deciduous_forest",
+      "required": false
+    },
+    {
+      "id": "byg:ebony_woods",
+      "required": false
+    },
+    {
+      "id": "byg:forgotten_forest",
+      "required": false
+    },
+    {
+      "id": "byg:fragmented_jungle",
+      "required": false
+    },
+    {
+      "id": "byg:jacaranda_forest",
+      "required": false
+    },
+    {
+      "id": "byg:maple_taiga",
+      "required": false
+    },
+    {
+      "id": "byg:nightshade_forest",
+      "required": false
+    },
+    {
+      "id": "byg:orchard",
+      "required": false
+    },
+    {
+      "id": "byg:prairie",
+      "required": false
+    },
+    {
+      "id": "byg:redwood_thicket",
+      "required": false
+    },
+    {
+      "id": "byg:rose_fields",
+      "required": false
+    },
+    {
+      "id": "byg:shattered_glacier",
+      "required": false
+    },
+    {
+      "id": "byg:sierra_range",
+      "required": false
+    },
+    {
+      "id": "byg:skyris_vale",
+      "required": false
+    },
+    {
+      "id": "byg:snowy_deciduous_forest",
+      "required": false
+    },
+    {
+      "id": "byg:weeping_witch_forest",
+      "required": false
+    },
+    {
+      "id": "byg:zelkova_forest",
+      "required": false
+    },
+
+    {
+      "id": "nomansland:lavender_fields",
+      "required": false
+    },
+    {
+      "id": "nomansland:autumnal_forest",
+      "required": false
+    },
+    {
+      "id": "nomansland:dark_taiga",
+      "required": false
+    }
+  ]
+}

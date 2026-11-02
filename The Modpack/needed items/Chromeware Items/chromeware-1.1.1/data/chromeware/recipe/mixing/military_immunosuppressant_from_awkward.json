@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    {
+      "type": "neoforge:components",
+      "amount": 250,
+      "components": {
+        "create:potion_fluid_bottle_type": "regular",
+        "minecraft:potion_contents": {
+          "potion": "minecraft:awkward"
+        }
+      },
+      "fluids": "create:potion"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "chromeware:military_immunosuppressant"
+    }
+  ]
+}

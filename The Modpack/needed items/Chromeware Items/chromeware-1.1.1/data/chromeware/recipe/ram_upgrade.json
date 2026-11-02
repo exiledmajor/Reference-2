@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " AB",
+    "CDC",
+    "EA "
+  ],
+  "key": {
+    "A": {
+      "item": "create:polished_rose_quartz"
+    },
+    "B": {
+      "item": "create:brass_sheet"
+    },
+    "C": {
+      "item": "create:zinc_nugget"
+    },
+    "D": {
+      "item": "create:iron_sheet"
+    },
+    "E": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "id": "chromeware:ram_upgrade",
+    "count": 1
+  }
+}

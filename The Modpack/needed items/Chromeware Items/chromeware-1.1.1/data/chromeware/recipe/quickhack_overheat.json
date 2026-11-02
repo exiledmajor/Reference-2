@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "create:copper_sheet"
+    },
+    "B": {
+      "item": "minecraft:magma_block"
+    },
+    "C": {
+      "item": "create:electron_tube"
+    },
+    "D": {
+      "item": "create:polished_rose_quartz"
+    },
+    "E": {
+      "item": "minecraft:furnace"
+    }
+  },
+  "result": {
+    "id": "chromeware:quickhack_overheat",
+    "count": 1
+  }
+}

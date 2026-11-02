@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ADA"
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "create:precision_mechanism"
+    },
+    "C": {
+      "item": "chromeware:proxishield"
+    },
+    "D": {
+      "item": "create:polished_rose_quartz"
+    }
+  },
+  "result": {
+    "id": "chromeware:peripheral_inverse",
+    "count": 1
+  }
+}

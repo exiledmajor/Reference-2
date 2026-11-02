@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCB",
+    "DED"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:clock"
+    },
+    "B": {
+      "item": "create:brass_sheet"
+    },
+    "C": {
+      "item": "minecraft:comparator"
+    },
+    "D": {
+      "item": "create:andesite_alloy"
+    },
+    "E": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "result": {
+    "id": "chromeware:reflex_tuner",
+    "count": 1
+  }
+}

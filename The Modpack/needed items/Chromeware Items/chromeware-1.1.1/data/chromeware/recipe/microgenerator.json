@@ -1,0 +1,53 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    " E "
+  ],
+  "key": {
+    "A": {
+      "item": "create:copper_sheet"
+    },
+    "B": {
+      "item": "create:cogwheel"
+    },
+    "C": {
+      "item": "create:brass_sheet"
+    },
+    "D": {
+      "item": "create:precision_mechanism"
+    },
+    "E": {
+      "item": "minecraft:lightning_rod"
+    }
+  },
+  "result": {
+    "id": "chromeware:microgenerator",
+    "count": 1
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:or",
+      "values": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "pointblank"
+        },
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "tacz"
+        },
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "superbwarfare"
+        },
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "scguns"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "com.chromeware.mixin.compat",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "mixins": ["PointBlankGunMixin", "PointBlankDamageMixin", "TaczGunMixin", "TaczBulletMixin", "SuperbGunMixin", "ScorchedGunMixin", "ScorchedReloadMixin", "ScorchedSpreadMixin"],
+  "client": ["client.PointBlankRecoilMixin", "client.PointBlankGunRecoilMixin", "client.TaczRecoilMixin", "client.SuperbRecoilMixin", "client.ScorchedRecoilMixin"],
+  "injectors": {"defaultRequire": 1}
+}

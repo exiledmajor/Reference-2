@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "createcybernetics:item/basecyberware_leftleg",
+    "layer1": "createcybernetics:item/basecyberware_leftleg_mask",
+    "layer2": "createcybernetics:item/basecyberware_leftleg_mask2"
+  }
+}

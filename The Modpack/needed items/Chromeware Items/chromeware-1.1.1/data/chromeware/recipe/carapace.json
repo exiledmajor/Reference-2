@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "ABA",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "create:sturdy_sheet"
+    }
+  },
+  "result": {
+    "id": "chromeware:carapace",
+    "count": 1
+  }
+}

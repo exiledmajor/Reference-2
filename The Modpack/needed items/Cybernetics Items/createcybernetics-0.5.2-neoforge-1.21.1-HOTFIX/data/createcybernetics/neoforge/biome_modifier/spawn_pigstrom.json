@@ -1,0 +1,5 @@
+{
+  "type": "createcybernetics:configurable_entity_spawn",
+  "biomes": "minecraft:crimson_forest",
+  "spawn_id": "pigstrom"
+}

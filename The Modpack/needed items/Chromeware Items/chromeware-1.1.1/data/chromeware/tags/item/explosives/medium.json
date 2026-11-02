@@ -1,0 +1,80 @@
+{
+  "values": [
+    {
+      "id": "pointblank:grenade",
+      "required": false
+    },
+    {
+      "id": "pointblank:grenade40mm",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:hand_grenade",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:rgo_grenade",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:grenade_40mm",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:small_aerial_bomb",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:medium_rocket_he",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:medium_anti_ground_missile",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:medium_anti_air_missile",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:medium_shell_he",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:claymore_mine",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:blu_43_mine",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:lunge_mine",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:small_rocket",
+      "required": false
+    },
+    {
+      "id": "superbwarfare:micro_missile",
+      "required": false
+    },
+    {
+      "id": "scguns:grenade",
+      "required": false
+    },
+    {
+      "id": "scguns:he_grenade_round",
+      "required": false
+    },
+    {
+      "id": "scguns:bouncy_grenade_round",
+      "required": false
+    },
+    {
+      "id": "scguns:nail_bomb",
+      "required": false
+    }
+  ]
+}

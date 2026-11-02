@@ -1,0 +1,359 @@
+{
+  "credit": "Create: Chromeware surgery chair in Create construction; built in Blockbench via MCP (scripts/model-surgery-chair.py)",
+  "parent": "minecraft:block/block",
+  "textures": {
+    "andesite": "create:block/andesite_casing",
+    "brass": "create:block/brass_casing",
+    "cushion": "create:block/seat/top_red",
+    "cushion_side": "create:block/seat/side_red",
+    "pole": "create:block/mechanical_press_pole",
+    "particle": "create:block/brass_casing"
+  },
+  "elements": [
+    {
+      "name": "foot_base",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        2,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            14,
+            16,
+            16
+          ],
+          "texture": "#andesite"
+        },
+        "east": {
+          "uv": [
+            0,
+            14,
+            16,
+            16
+          ],
+          "texture": "#andesite"
+        },
+        "south": {
+          "uv": [
+            0,
+            14,
+            16,
+            16
+          ],
+          "texture": "#andesite"
+        },
+        "west": {
+          "uv": [
+            0,
+            14,
+            16,
+            16
+          ],
+          "texture": "#andesite"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#andesite"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#andesite"
+        }
+      }
+    },
+    {
+      "name": "foot_collar",
+      "from": [
+        4,
+        2,
+        4
+      ],
+      "to": [
+        12,
+        3,
+        12
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            13,
+            12,
+            14
+          ],
+          "texture": "#andesite"
+        },
+        "east": {
+          "uv": [
+            4,
+            13,
+            12,
+            14
+          ],
+          "texture": "#andesite"
+        },
+        "south": {
+          "uv": [
+            4,
+            13,
+            12,
+            14
+          ],
+          "texture": "#andesite"
+        },
+        "west": {
+          "uv": [
+            4,
+            13,
+            12,
+            14
+          ],
+          "texture": "#andesite"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            12,
+            12
+          ],
+          "texture": "#andesite"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            12,
+            12
+          ],
+          "texture": "#andesite"
+        }
+      }
+    },
+    {
+      "name": "foot_column",
+      "from": [
+        5,
+        3,
+        5
+      ],
+      "to": [
+        11,
+        5,
+        11
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            14,
+            6,
+            16
+          ],
+          "texture": "#pole"
+        },
+        "east": {
+          "uv": [
+            0,
+            14,
+            6,
+            16
+          ],
+          "texture": "#pole"
+        },
+        "south": {
+          "uv": [
+            0,
+            14,
+            6,
+            16
+          ],
+          "texture": "#pole"
+        },
+        "west": {
+          "uv": [
+            0,
+            14,
+            6,
+            16
+          ],
+          "texture": "#pole"
+        },
+        "up": {
+          "uv": [
+            10,
+            0,
+            16,
+            6
+          ],
+          "texture": "#pole"
+        },
+        "down": {
+          "uv": [
+            10,
+            0,
+            16,
+            6
+          ],
+          "texture": "#pole"
+        }
+      }
+    },
+    {
+      "name": "seat_tray",
+      "from": [
+        0,
+        5,
+        0
+      ],
+      "to": [
+        16,
+        7,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            9,
+            16,
+            11
+          ],
+          "texture": "#brass"
+        },
+        "east": {
+          "uv": [
+            0,
+            9,
+            16,
+            11
+          ],
+          "texture": "#brass"
+        },
+        "south": {
+          "uv": [
+            0,
+            9,
+            16,
+            11
+          ],
+          "texture": "#brass"
+        },
+        "west": {
+          "uv": [
+            0,
+            9,
+            16,
+            11
+          ],
+          "texture": "#brass"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#brass"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#brass"
+        }
+      }
+    },
+    {
+      "name": "seat_cushion",
+      "from": [
+        1,
+        7,
+        1
+      ],
+      "to": [
+        15,
+        10,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            8,
+            14,
+            11
+          ],
+          "texture": "#cushion_side"
+        },
+        "east": {
+          "uv": [
+            0,
+            8,
+            15,
+            11
+          ],
+          "texture": "#cushion_side"
+        },
+        "south": {
+          "uv": [
+            0,
+            8,
+            14,
+            11
+          ],
+          "texture": "#cushion_side"
+        },
+        "west": {
+          "uv": [
+            0,
+            8,
+            15,
+            11
+          ],
+          "texture": "#cushion_side"
+        },
+        "up": {
+          "uv": [
+            1,
+            1,
+            15,
+            16
+          ],
+          "texture": "#cushion"
+        },
+        "down": {
+          "uv": [
+            1,
+            1,
+            15,
+            16
+          ],
+          "texture": "#cushion"
+        }
+      }
+    }
+  ]
+}

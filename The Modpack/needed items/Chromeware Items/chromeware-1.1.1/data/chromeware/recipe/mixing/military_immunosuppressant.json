@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 250,
+      "fluid": "chromeware:standard_immunosuppressant"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "chromeware:military_immunosuppressant"
+    }
+  ]
+}

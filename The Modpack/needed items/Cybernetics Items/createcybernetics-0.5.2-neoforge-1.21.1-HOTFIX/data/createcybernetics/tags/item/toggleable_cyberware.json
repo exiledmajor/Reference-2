@@ -1,0 +1,41 @@
+{
+  "values": [
+    "createcybernetics:eyeupgrades_zoom",
+    "createcybernetics:eyeupgrades_nightvision",
+    "createcybernetics:armupgrades_claws",
+    "createcybernetics:armupgrades_claws",
+    "createcybernetics:armupgrades_firestarter",
+    "createcybernetics:skinupgrades_chromatophores",
+    "createcybernetics:brainupgrades_idem",
+    "createcybernetics:brainupgrades_matrix",
+    "createcybernetics:boneupgrades_spinalinjector",
+    "createcybernetics:boneupgrades_sandevistan",
+    "createcybernetics:armupgrades_armcannon",
+    "createcybernetics:legupgrades_jumpboost",
+    "createcybernetics:skinupgrades_syntheticsetules",
+    "createcybernetics:armupgrades_arccannon",
+    "createcybernetics:lungsupgrades_vampyres",
+    "createcybernetics:brainupgrades_kerenzikov",
+    "createcybernetics:brainupgrades_berserk",
+    "createcybernetics:armupgrades_mantisblade_iron",
+    "createcybernetics:armupgrades_mantisblade_copper",
+    "createcybernetics:armupgrades_mantisblade_titanium",
+    "createcybernetics:armupgrades_mantisblade_gold",
+    "createcybernetics:armupgrades_mantisblade_diamond",
+    "createcybernetics:armupgrades_mantisblade_netherite",
+    "createcybernetics:wetware_firebreathinglungs",
+    "createcybernetics:wetware_sculklungs",
+    "createcybernetics:wetware_guardianeye",
+    "createcybernetics:wetware_webshooting_leftarm",
+    "createcybernetics:wetware_webshooting_rightarm",
+    "createcybernetics:wetware_webshootingintestines",
+    {
+      "id": "createcybernetics:boneupgrades_elytra",
+      "required": false
+    },
+    {
+      "id": "createcybernetics:skinupgrades_ultraviolent",
+      "required": false
+    }
+  ]
+}

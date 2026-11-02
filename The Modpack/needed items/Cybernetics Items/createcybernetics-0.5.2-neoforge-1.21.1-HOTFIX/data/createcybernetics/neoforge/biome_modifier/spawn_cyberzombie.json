@@ -1,0 +1,5 @@
+{
+  "type": "createcybernetics:configurable_entity_spawn",
+  "biomes": "#createcybernetics:cybermonster_spawns",
+  "spawn_id": "cyberzombie"
+}

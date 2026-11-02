@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    " C ",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "create:brass_sheet"
+    },
+    "B": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "C": {
+      "item": "chromeware:kiroshi_optics"
+    },
+    "D": {
+      "item": "minecraft:observer"
+    }
+  },
+  "result": {
+    "id": "chromeware:doomsayer",
+    "count": 1
+  }
+}
