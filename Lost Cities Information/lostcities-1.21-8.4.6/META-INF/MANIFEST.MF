@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: lostcities
+Specification-Vendor: McJty
+Specification-Version: 1
+Implementation-Title: LostCities
+Implementation-Version: 1.21-8.4.6
+Implementation-Vendor: McJty
+Implementation-Timestamp: 2026-10-04T08:29:13+0200
+
