@@ -1,0 +1,36 @@
+2026-11-02T07:19:25.648334200-06:00  INFO theseus_gui: Initialized tracing subscriber. Loading Modrinth App!
+2026-11-02T07:19:25.653783600-06:00  INFO theseus_gui: Initializing app...
+2026-11-02T07:19:26.088424300-06:00  INFO initialize_state: theseus_gui: Initializing app event state...
+2026-11-02T07:19:26.088508-06:00  INFO initialize_state: theseus_gui: Initializing app state...
+2026-11-02T07:19:26.089526100-06:00  INFO initialize_state:initialize_state{app_identifier="ModrinthApp"}: theseus::state: Connecting to app database
+2026-11-02T07:19:26.109109800-06:00 DEBUG webview: [GET] [https://api.modrinth.com_vcdn-cgi] https://api.modrinth.com/cdn-cgi/trace SENT webview="main"
+2026-11-02T07:19:26.132768900-06:00  INFO initialize_state:initialize_state{app_identifier="ModrinthApp"}: theseus::state: Fetching app settings
+2026-11-02T07:19:26.133109-06:00  INFO initialize_state:initialize_state{app_identifier="ModrinthApp"}: theseus::state: Initializing directories
+2026-11-02T07:19:26.138035900-06:00  INFO initialize_state:initialize_state{app_identifier="ModrinthApp"}: theseus::state: Initializing file watcher
+2026-11-02T07:19:26.139211200-06:00  INFO init_watcher: theseus::state::instances::watcher: Initing watcher
+2026-11-02T07:19:26.286443200-06:00 DEBUG webview: [GET] [archon_vmodrinth/v0] https://archon.modrinth.com/modrinth/v0/servers?limit=100 SENT webview="main"
+2026-11-02T07:19:26.286797500-06:00 DEBUG webview: [GET] [labrinth_vinternal] https://api.modrinth.com/_internal/billing/subscriptions SENT webview="main"
+2026-11-02T07:19:26.287561600-06:00 DEBUG webview: [GET] [labrinth_vinternal] https://api.modrinth.com/_internal/billing/payments SENT webview="main"
+2026-11-02T07:19:26.301591600-06:00  INFO webview: No update available webview="main"
+2026-11-02T07:19:26.479077500-06:00  INFO webview: No user survey to show webview="main"
+2026-11-02T07:19:26.707279-06:00 DEBUG webview: [GET] [https://api.modrinth.com_vcdn-cgi] https://api.modrinth.com/cdn-cgi/trace RECEIVED 258 bytes webview="main"
+2026-11-02T07:19:26.992787700-06:00 DEBUG webview: [GET] [labrinth_vinternal] https://api.modrinth.com/_internal/billing/subscriptions FAILED — 401 body: {"error":"auth_error","description":"authenticating API request","details":["Authentication method was not valid"]} webview="main"
+2026-11-02T07:19:26.992997700-06:00 DEBUG webview: [GET] [archon_vmodrinth/v0] https://archon.modrinth.com/modrinth/v0/servers?limit=100 FAILED — 401 HTTP 401: Unauthorized webview="main"
+2026-11-02T07:19:26.993133500-06:00 DEBUG webview: [GET] [labrinth_vinternal] https://api.modrinth.com/_internal/billing/payments FAILED — 401 body: {"error":"auth_error","description":"authenticating API request","details":["Authentication method was not valid"]} webview="main"
+2026-11-02T07:19:30.456580500-06:00 ERROR webview: Unknown filter type: i webview="main"
+2026-11-02T07:19:36.913149500-06:00 ERROR webview: Unhandled instance app event "Error: CancelledError\n    at Object.o [as cancel] (http://tauri.localhost/assets/classPrivateMethodInitSpec-B9SXkgDz.js:1:6586)\n    at Se.cancel (http://tauri.localhost/assets/useQuery-BYHLfill.js:1:4153)\n    at Se.fetch (http://tauri.localhost/assets/useQuery-BYHLfill.js:1:6046)\n    at http://tauri.localhost/assets/index-9k6sGPj8.js:2:19586\n    at Array.map (<anonymous>)\n    at http://tauri.localhost/assets/index-9k6sGPj8.js:2:19570\n    at Object.batch (http://tauri.localhost/assets/useQuery-BYHLfill.js:1:628)\n    at Rc.refetchQueries (http://tauri.localhost/assets/index-9k6sGPj8.js:2:19495)\n    at http://tauri.localhost/assets/index-9k6sGPj8.js:2:22773\n    at async Promise.all (index 0)\n    at async te (http://tauri.localhost/assets/layout-Dbc6F_Xn.js:1:87799)\n    at async queryFn (http://tauri.localhost/assets/layout-Dbc6F_Xn.js:1:88025)" webview="main"
+2026-11-02T07:24:26.415906200-06:00  INFO webview: No update available webview="main"
+2026-11-02T07:24:41.783109500-06:00  INFO init_watcher: theseus::state::instances::watcher: World updated: C:\Users\Owner\AppData\Roaming\ModrinthApp\profiles\Cyber test\saves\New World\level.dat
+2026-11-02T07:25:00.987032500-06:00 ERROR theseus::util::rpc: Failed to run RPC server: An existing connection was forcibly closed by the remote host. (os error 10054)
+2026-11-02T07:29:26.526487500-06:00  INFO webview: No update available webview="main"
+2026-11-02T07:32:44.158987400-06:00 ERROR theseus::util::rpc: Failed to run RPC server: An existing connection was forcibly closed by the remote host. (os error 10054)
+2026-11-02T07:32:44.723841500-06:00  INFO init_watcher: theseus::state::instances::watcher: World updated: C:\Users\Owner\AppData\Roaming\ModrinthApp\profiles\Cyber test\saves\New World\level.dat
+2026-11-02T07:32:44.724819200-06:00  WARN theseus::event::emit: Instance Cyber test has crashed! Visit the logs page to see a crash report.
+2026-11-02T07:32:44.739927700-06:00  INFO init_watcher: theseus::state::instances::watcher: World updated: C:\Users\Owner\AppData\Roaming\ModrinthApp\profiles\Cyber test\saves\New World\level.dat
+2026-11-02T07:32:49.339836700-06:00 ERROR webview: Unknown filter type: i webview="main"
+2026-11-02T07:33:19.111981800-06:00  INFO init_watcher: theseus::state::instances::watcher: World updated: C:\Users\Owner\AppData\Roaming\ModrinthApp\profiles\Cyber test\saves\New World\level.dat
+2026-11-02T07:33:19.192510100-06:00 ERROR theseus::util::rpc: Failed to run RPC server: An existing connection was forcibly closed by the remote host. (os error 10054)
+2026-11-02T07:33:19.676083400-06:00  WARN theseus::event::emit: Instance Cyber test has crashed! Visit the logs page to see a crash report.
+2026-11-02T07:33:19.707762100-06:00  INFO init_watcher: theseus::state::instances::watcher: World updated: C:\Users\Owner\AppData\Roaming\ModrinthApp\profiles\Cyber test\saves\New World\level.dat
+2026-11-02T07:34:26.626399600-06:00  INFO webview: No update available webview="main"
+2026-11-02T07:37:23.942549800-06:00  WARN theseus::event::emit: Instance Cyber test has crashed! Visit the logs page to see a crash report.

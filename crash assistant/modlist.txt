@@ -1,0 +1,9 @@
+Mods count: 3
+ 
+                    jar name                      | notes |     mod id      |    mod name     |    mod version    |                           mixin configs                           |              modrinth hash               | curseforge hash
+--------------------------------------------------+-------+-----------------+-----------------+-------------------+-------------------------------------------------------------------+------------------------------------------+----------------
+neoforge-21.1.265 (modloader)                     |       | neoforge        | neoforge        | neoforge-21.1.265 |                                                                   |                                          |                
+CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar |       | crash_assistant | Crash Assistant | 1.11.12           | crash_assistant.mixins.json, crash_assistant.neoforge.mixins.json | ec9e35065ce3a49ecec6bd6ff7fec6992476f7bb | 815653576      
+    /META-INF/jarjar/app.jar                      |       |                 |                 |                   |                                                                   |                                          |                
+    /META-INF/jarjar/crash_assistant-neoforge.jar |       | crash_assistant | Crash Assistant | 1.11.12           | crash_assistant.mixins.json, crash_assistant.neoforge.mixins.json |                                          |                
+lostcities-1.21-8.4.6.jar                         |       | lostcities      | LostCities      | 1.21-8.4.6        |                                                                   | d8cabb7fd40b6fa06a9617c8a24d1e1f6f0a9611 | 740837082      
