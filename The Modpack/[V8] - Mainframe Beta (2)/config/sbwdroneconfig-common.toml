@@ -25,6 +25,20 @@
 	hidePlayerOnMinimapDuringDroneControl = true
 	#Prefer showing the active drone as the map target when supported by a minimap integration.
 	showDroneMarkerInstead = true
+	#Use vanilla chunk and entity tracking around the validated drone camera while the body stays in place. Takes precedence over the legacy player anchor; disabling restores the legacy behavior.
+	enableDroneRemoteChunkTracking = true
+	#Global new supplementary body/autonomous-flight tickets per server tick; camera views use vanilla's own throttler.
+	# Default: 4
+	# Range: 1 ~ 16
+	droneExtraTicketsPerTick = 4
+	#Global supplementary chunks allowed to be loading at once.
+	# Default: 8
+	# Range: 1 ~ 64
+	droneExtraPendingChunks = 8
+	#Global supplementary ticket cap, shared by all drones, players and dimensions.
+	# Default: 512
+	# Range: 16 ~ 4096
+	droneExtraTicketLimit = 512
 
 [lucas]
 	#How long the LUCAS drone gets assisted launch thrust after a new control session begins.

@@ -26,6 +26,27 @@
 // }
 
 {
-  profiles: {},
-  rules: {}
+  "profiles": {
+    "Profile 1": {
+      "viewMode": "THIRD_PERSON",
+      "firstPersonScreenScale": 1.8,
+      "screenScale": 4.53172045597761,
+      "firstPersonScreenSideOffset": 0.0,
+      "screenSideOffset": -0.6801879208146732,
+      "firstPersonScreenHeightOffset": 0.0,
+      "screenHeightOffset": -0.4,
+      "firstPersonScreenDistance": 2.07,
+      "screenDistance": 5.41,
+      "firstPersonScreenYawOffset": 180.0,
+      "screenYawOffset": 160.0,
+      "firstPersonScreenPitchOffset": 0.0,
+      "screenPitchOffset": 0.0,
+      "curvedScreenEnabled": false,
+      "curvedScreenArcDegrees": 30
+    }
+  },
+  "rules": {
+    "#all": "Profile 1"
+  },
+  "default": "Profile 1"
 }

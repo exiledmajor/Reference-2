@@ -1,8 +1,8 @@
 {
 	enabled: true,
+	editorPausesGame: false,
 	autoDetectCameraMode: false,
-	firstPersonModeInventory: false,
-	firstPersonModeContainers: false,
+	viewMode: "THIRD_PERSON",
 	useCrosshairForFirstPerson: true,
 	hideHud: false,
 	hideHotbar: false,
@@ -73,6 +73,8 @@
 	hideHandsInFirstPerson: false,
 	hideShieldInFirstPerson: true,
 	swingArmOnFirstPersonClick: false,
+	handPokeStrength: 1.0,
+	handPokeDurationMs: 150,
 	screenAlpha: 255,
 	useLinearFiltering: true,
 	useAnisotropicFiltering: true,
@@ -82,6 +84,7 @@
 	screenYawOffset: 160.0,
 	screenPitchOffset: 0.0,
 	screenScale: 4.53172045597761,
+	recipeViewerScaleMultiplier: 0.65,
 	elytraFlyingSideOffset: -0.5,
 	elytraFlyingHeightOffset: -0.4,
 	cameraDistance: 1.7,
@@ -130,5 +133,7 @@
 	autoScaleScreenPower: 1.2,
 	autoScaleSideOffsetMultiplier: -0.3,
 	autoScaleDistanceMultiplier: 0.8,
-	autoScaleThirdPersonScreenMultiplier: 0.82
+	autoScaleThirdPersonScreenMultiplier: 0.82,
+	editorIntroSeen: false,
+	profilePickerTipSeen: false
 }

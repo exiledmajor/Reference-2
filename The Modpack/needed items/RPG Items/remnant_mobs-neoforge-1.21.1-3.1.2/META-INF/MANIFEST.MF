@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: Remnants: RPG Mobs
+Specification-Vendor: NightBeam Studio
+Specification-Version: 3.1.2
+Implementation-Title: neoforge
+Implementation-Version: 3.1.2
+Implementation-Vendor: NightBeam Studio
+Built-On-Minecraft: 1.21.1
+

@@ -138,7 +138,6 @@ key_keybind.name.EMOTE_SLOT_6:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_7:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_8:key.keyboard.unknown
 key_keybind.name.ZOOM:key.keyboard.unknown
-key_auroras.key.reload_aurora_configs:key.keyboard.unknown
 key_key.sophisticatedcore.sort:key.mouse.middle
 key_key.sophisticatedcore.transfer_to_storage:key.keyboard.left.bracket
 key_key.sophisticatedcore.transfer_to_inventory:key.keyboard.right.bracket
@@ -165,7 +164,7 @@ key_key.superbwarfare.move_space:key.keyboard.space
 key_key.superbwarfare.move_shift:key.keyboard.left.shift
 key_key.superbwarfare.move_ctrl:key.keyboard.left.control
 key_key.superbwarfare.reload:key.keyboard.r
-key_key.superbwarfare.fire_mode:key.keyboard.n
+key_key.superbwarfare.fire_mode:key.keyboard.grave.accent
 key_key.superbwarfare.sensitivity_increase:key.keyboard.page.up
 key_key.superbwarfare.sensitivity_reduce:key.keyboard.page.down
 key_key.superbwarfare.interact:key.keyboard.x
@@ -194,7 +193,7 @@ key_key.superbwarfare.loiter_config:key.keyboard.j
 key_key.superbwarfare.toggle_tactical_map:key.keyboard.m
 key_key.curios.open.desc:key.keyboard.unknown
 key_key.pointblack.reload:key.keyboard.r
-key_key.pointblack.firemode:key.keyboard.b
+key_key.pointblack.firemode:key.keyboard.grave.accent
 key_key.pointblack.inspect:key.keyboard.i
 key_key.pointblack.attachments:key.keyboard.y
 key_key.pointblack.scope_switch:key.keyboard.v

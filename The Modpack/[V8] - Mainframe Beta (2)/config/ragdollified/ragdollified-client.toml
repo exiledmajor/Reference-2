@@ -28,6 +28,12 @@
 	#Leave empty to draw no armor there. Otherwise an armor material name: leather, chainmail,
 	#iron, gold, diamond, netherite, or modid:material for a modded one.
 	missingArmorFallback = ""
+	#Fade a ragdoll out over the end of its lifetime instead of removing it at once.
+	fadeOutRagdolls = true
+	#How long a fading ragdoll takes to disappear, in ticks (20 is one second).
+	# Default: 30
+	# Range: 1 ~ 200
+	fadeOutTicks = 30
 
 #Physics Engine
 [physics]

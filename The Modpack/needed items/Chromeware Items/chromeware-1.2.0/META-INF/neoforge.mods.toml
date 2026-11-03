@@ -1,0 +1,81 @@
+modLoader="javafml"
+
+loaderVersion="[1,)"
+
+license="All Rights Reserved"
+
+[[mixins]]
+config="chromeware.guns.mixins.json"
+
+[[mixins]]
+config="chromeware.compat.mixins.json"
+
+[[mods]]
+
+modId="chromeware"
+
+version="1.2.0"
+
+displayName="Create: Chromeware"
+
+displayURL="https://modrinth.com/project/cyberpunk2077mod"
+
+logoFile="chromeware-logo.png"
+
+authors="breenihilation"
+
+description='''
+All things Cyberpunk for Create.
+'''
+
+[[mixins]]
+config="chromeware.mixins.json"
+
+[[dependencies.chromeware]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.235,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.chromeware]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.chromeware]]
+    modId="create"
+    type="required"
+    versionRange="[6.0.10,6.1.0)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.chromeware]]
+    modId="entity_model_features"
+    type="optional"
+    versionRange="[3.0.11,)"
+    ordering="NONE"
+    side="CLIENT"
+
+[[dependencies.chromeware]]
+    modId="sable"
+    type="optional"
+    versionRange="[2.0.5,2.1.0)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.chromeware]]
+    modId="hemodynamics"
+    type="required"
+    versionRange="[1.0.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.chromeware]]
+    modId="player_animation_library"
+    type="required"
+    versionRange="[1.1.6+mc.1.21.1]"
+    ordering="AFTER"
+    side="BOTH"

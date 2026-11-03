@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "com.chromeware.mixin.compat",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "mixins": ["RagdollPartMixin", "CorpseAnatomyMixin", "HemodynamicsMixin"],
+  "client": ["client.FirstPersonModelMixin", "client.BetterCombatWeaponMixin", "client.EpicFightControlMixin", "client.EntityModelFeaturesPartMixin", "client.McaPlayerModelMixin", "client.HemodynamicsClientMixin", "client.RagdollRendererMixin", "client.CorpseRendererMixin"],
+  "injectors": {"defaultRequire": 1}
+}

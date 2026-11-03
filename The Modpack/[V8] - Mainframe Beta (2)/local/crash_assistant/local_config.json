@@ -1,5 +1,6 @@
 {
 	"shown_reasons": {
+		"MissingUnsupportedDependencies": true,
 		"MixinApply": true,
 		"ModuleResolution": true
 	}

@@ -1,0 +1,36 @@
+modLoader = "javafml" #mandatory
+loaderVersion = "[4,)" #mandatory
+license = "Apache-2.0" # Review your options at https://choosealicense.com/.
+issueTrackerURL="https://github.com/MeherBenSalem/RPG-Attribute-System/issues"
+[[mods]] #mandatory
+modId = "rpg_attribute_system" #mandatory
+version = "5.1.1" #mandatory
+displayName = "RPG Attribute System" #mandatory
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional (see https://docs.neoforged.net/docs/misc/updatechecker/)
+displayURL="https://github.com/MeherBenSalem/RPG-Attribute-System" #optional (displayed in the mod UI)
+logoFile="rpg_attribute_system.png" #optional
+credits="" #optional
+authors = "Meher" #optional
+description = '''A comprehensive RPG attribute system that enhances player progression with custom stats and abilities.''' #mandatory (Supports multiline text)
+[[mixins]]
+config = "rpg_attribute_system.mixins.json"
+[[mixins]]
+config = "rpg_attribute_system.neoforge.mixins.json"
+[[dependencies.rpg_attribute_system]] #optional
+modId = "neoforge" #mandatory
+type="required" #mandatory (Can be one of "required", "optional", "incompatible" or "discouraged")
+versionRange = "[21.1.229,)" #mandatory
+ordering = "NONE" # The order that this dependency should load in relation to your mod, required to be either 'BEFORE' or 'AFTER' if the dependency is not mandatory
+side = "BOTH" # Side this dependency is applied on - 'BOTH', 'CLIENT' or 'SERVER'
+[[dependencies.rpg_attribute_system]]
+modId = "minecraft"
+type="required" #mandatory (Can be one of "required", "optional", "incompatible" or "discouraged")
+versionRange = "[1.21.1, 1.22)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.rpg_attribute_system]]
+modId = "jauml"
+type = "required"
+versionRange = "*"
+ordering = "NONE"
+side = "BOTH"

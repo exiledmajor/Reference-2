@@ -1,0 +1,19 @@
+[explosionAudio]
+	#Explosion volume; also respects Master and Blocks. Starts conservatively.
+	# Default: 0.65
+	# Range: 0.0 ~ 1.0
+	volume = 0.65
+	#Maximum hearing distance in blocks. No chunks are loaded.
+	# Default: 1024.0
+	# Range: 16.0 ~ 2048.0
+	maxDistance = 1024.0
+	#Enable sound propagation delay from the active camera.
+	distanceDelay = true
+	#Sound propagation in blocks per second.
+	# Default: 343.0
+	# Range: 50.0 ~ 2000.0
+	propagationSpeed = 343.0
+	#Simultaneous explosion effects; each uses at most two voices.
+	# Default: 8
+	# Range: 1 ~ 16
+	maxEffects = 8

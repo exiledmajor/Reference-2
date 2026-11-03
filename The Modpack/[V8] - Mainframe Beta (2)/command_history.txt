@@ -1,17 +1,4 @@
 /gamemode creative
-/gamerule keepInventory true
-/gamemode survival
-/gamemode creative
-/time set midnight
-/setworldspawn
-/gamemode survival
-/gamemode creative
-/gamemode survival
-/gamemode creative
-/time set midnight
-/gamemode survivla
-/gamemode survival
-/gamemode creative
 /gamemode survival
 /gamemode creative
 /gamemode survival
@@ -48,3 +35,16 @@
 /time set midnight
 /gamemode survival
 /gamemode creative
+/time set midnight
+/gamemode survival
+/time set day
+/gamemode creative
+/time set midnight
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/time set day
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival

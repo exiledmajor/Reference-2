@@ -37,6 +37,12 @@
 	whitelist = ["minecraft:player"]
 	#Dimension ids where nothing ragdolls, like minecraft:the_end. Modded dimensions work too.
 	disabledDimensions = []
+	#When on, only the entity ids in genericWhitelist get a measured ragdoll.
+	#Needs enableGenericMobRagdolls on, and still only reaches mobs with no built-in rig.
+	genericWhitelistOnly = false
+	#Entity ids that get a measured ragdoll while genericWhitelistOnly is on, like mymod:crab.
+	#modid:* names every mob from one mod.
+	genericWhitelist = []
 
 #Hit Impulse Settings
 [hitImpulse]
@@ -93,22 +99,22 @@
 	# Default: 6.0
 	# Range: 0.1 ~ 100.0
 	damageReference = 6.0
-	#How much hitting off-centre on a body part spins the body, as a multiplier.
+	#How much hitting off-center on a body part spins the body, as a multiplier.
 	#1 = realistic, higher = more exaggerated, 0 = ignore where the hit landed.
 	# Default: 2.0
 	# Range: 0.0 ~ 8.0
 	aimSpread = 2.0
-	#Extra spin for hits that come in from the side at an angle, even when aimed dead centre.
+	#Extra spin for hits that come in from the side at an angle, even when aimed dead center.
 	#Grows with the angle, as a fraction of the part's half-width. 0 = no extra spin.
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	attackerSideBias = 1.0
 	#For the killing hit on a standing body, how much it pivots around the feet instead of
-	#its centre (0 to 1). Higher makes bodies topple over rather than slide back.
+	#its center (0 to 1). Higher makes bodies topple over rather than slide back.
 	# Default: 0.7
 	# Range: 0.0 ~ 1.0
 	groundLever = 0.7
-	#Width of the band down the middle of the chest treated as a dead-centre hit, as a
+	#Width of the band down the middle of the chest treated as a dead-center hit, as a
 	#fraction of the mob's width. Hits inside it cause no spin. 0 = off (recommended).
 	# Default: 0.0
 	# Range: 0.0 ~ 0.5
@@ -182,6 +188,11 @@
 	# Default: 8.0
 	# Range: 0.0 ~ 10.0
 	deathPartMultiplierRightArm = 8.0
+	#Pellets fired together, like a TACZ shotgun blast, push a body as one round
+	#times this, however many of them land.
+	# Default: 1.25
+	# Range: 0.0 ~ 10.0
+	volleyMultiplier = 1.25
 
 #Humanoid Joint Limits
 #How far each humanoid joint can bend, in degrees: pitch (forward/back), twist (about

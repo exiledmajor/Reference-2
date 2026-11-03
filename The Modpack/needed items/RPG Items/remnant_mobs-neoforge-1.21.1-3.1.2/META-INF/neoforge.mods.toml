@@ -1,0 +1,41 @@
+modLoader = "javafml" #mandatory
+loaderVersion = "[4,)" #mandatory
+license = "Apache-2.0"
+issueTrackerURL="https://github.com/MeherBenSalem/Ascendant-Mobs/issues"
+[[mods]] #mandatory
+modId = "remnant_mobs" #mandatory
+version = "3.1.2" #mandatory
+displayName = "Remnants: RPG Mobs" #mandatory
+displayURL="https://github.com/MeherBenSalem/Ascendant-Mobs"
+logoFile = "logo.png" #optional
+iconFile = "remnant_mobs.png" #optional
+credits="NightBeam Studio. Formerly RPG Mob Leveling System / Ascendant Mobs." #optional
+authors = "NightBeam Studio" #optional
+description = '''Monsters with levels, ranks and traits: every hunt is a fight worth winning. Threat grows with distance, depth and time, elites carry deadly traits under soulslike nameplates, and the Hunter's Moon makes the night dangerous. Pairs with RPG Attribute System.''' #mandatory (Supports multiline text)
+[[mixins]]
+config = "remnant_mobs.mixins.json"
+[[dependencies.remnant_mobs]] #optional
+modId = "neoforge" #mandatory
+type="required" #mandatory (Can be one of "required", "optional", "incompatible" or "discouraged")
+versionRange = "[21.1.80,)" #mandatory
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.remnant_mobs]]
+modId = "minecraft"
+type="required"
+versionRange = "[1.21.1, 1.21.2)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.remnant_mobs]]
+modId = "rpg_attribute_system"
+type="optional"
+versionRange = "[4.0,)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.remnant_mobs]]
+modId = "rpgmoblevelingsystem"
+type="incompatible"
+reason="Remnants: RPG Mobs replaces RPG Mob Leveling System; remove the old jar."
+versionRange = "[0,)"
+ordering = "NONE"
+side = "BOTH"

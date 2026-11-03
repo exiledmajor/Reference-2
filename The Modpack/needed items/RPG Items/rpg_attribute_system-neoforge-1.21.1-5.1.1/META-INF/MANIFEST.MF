@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: RPG Attribute System
+Specification-Vendor: Meher
+Specification-Version: 5.1.1
+Implementation-Title: neoforge
+Implementation-Version: 5.1.1
+Implementation-Vendor: Meher
+Built-On-Minecraft: 1.21.1
+RAS-Source-Commit: f580f36344c3e6fd17fb8cbce76db9a58593fec4
+

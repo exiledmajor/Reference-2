@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "remnant_mobs:remnant_shard"
+    },
+    "title": {
+      "translate": "advancements.remnant_mobs.root.title",
+      "fallback": "Remnants"
+    },
+    "description": {
+      "translate": "advancements.remnant_mobs.root.description",
+      "fallback": "Not every monster is the same. Some have levels, ranks and traits"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "remnant_mobs:textures/gui/advancements/backgrounds/remnants.png"
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "done"
+    ]
+  ]
+}
